@@ -1,0 +1,1562 @@
+Execution Volunteer,Number of Victims,Juvenile,First Name,Last Name,Middle Name(s),Suffix,Race,Sex,Region,Country,State,Foreign National,Execution Date,Number of White Male Victims,Number of Black Male Victims,Number of Latino Male Victims,Number of Asian Male Victims,Number of Native American Male Victims,Number of Other Race Male Victims,Number of White Female Victims,Number of Black Female Victims,Number of Latino Female Victims,Number of Asian Female Victims,Number of American Indian or Alaska Native Female Victims,Number of Other Race Female Victims,Victim(s) Race(s)
+yes,1,no,Gary,Gilmore,Mark,,White,Male,West,United States,Utah,No,1/17/77,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,John,Spenkelink,,,White,Male,South,United States,Florida,No,5/25/79,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,no,Jesse,Bishop,,,White,Male,West,United States,Nevada,No,10/22/79,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,4,no,Steven,Judy,,,White,Male,Midwest,United States,Indiana,No,3/9/81,2,0,0,0,0,0,2,0,0,0,0,0,White
+yes,1,no,Frank,Coppola,,,White,Male,South,United States,Virginia,No,8/10/82,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Charlie,Brooks,,,Black,Male,South,United States,Texas,No,12/7/82,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,John,Evans,,,White,Male,South,United States,Alabama,No,4/22/83,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Jimmy,Gray,Lee,,White,Male,South,United States,Mississippi,No,9/2/83,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Robert,Sullivan,,,White,Male,South,United States,Florida,No,11/30/83,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Robert,Williams,Wayne,,Black,Male,South,United States,Louisiana,No,12/14/83,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,2,no,John,Smith,Eldon,,White,Male,South,United States,Georgia,No,12/15/83,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Anthony,Antone,,,White,Male,South,United States,Florida,No,1/26/84,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,John,Taylor,,,Black,Male,South,United States,Louisiana,No,2/29/84,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,James,Autry,,,White,Male,South,United States,Texas,No,3/14/84,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,James,Hutchins,,,White,Male,South,United States,North Carolina,No,3/16/84,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Ronald,O'Bryan,,,White,Male,South,United States,Texas,No,3/31/84,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Elmo,Sonnier,,,White,Male,South,United States,Louisiana,No,4/5/84,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Arthur,Goode,,,White,Male,South,United States,Florida,No,4/5/84,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,James,Adams,,,Black,Male,South,United States,Florida,No,5/10/84,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Carl,Shriner,,,White,Male,South,United States,Florida,No,6/20/84,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Ivon,Stanley,,,Black,Male,South,United States,Georgia,No,7/12/84,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,3,no,David,Washington,,,Black,Male,South,United States,Florida,No,7/13/84,2,0,0,0,0,0,0,1,0,0,0,0,Multiple (including White)
+no,1,no,Ernest,Dobbert,,,White,Male,South,United States,Florida,No,9/7/84,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Timothy,Baldwin,,,White,Male,South,United States,Louisiana,No,9/10/84,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,James,Henry,Dupree,,Black,Male,South,United States,Florida,No,9/20/84,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Linwood,Briley,,,Black,Male,South,United States,Virginia,No,10/12/84,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Ernest,Knighton,,,Black,Male,South,United States,Louisiana,No,10/30/84,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Thomas,Barefoot,,,White,Male,South,United States,Texas,No,10/30/84,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Velma,Barfield,,,White,Female,South,United States,North Carolina,No,11/2/84,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Timothy,Palmes,,,White,Male,South,United States,Florida,No,11/8/84,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Alpha,Stephens,Otis,,Black,Male,South,United States,Georgia,No,12/12/84,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Robert,Willie,Lee,,White,Male,South,United States,Louisiana,No,12/28/84,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,4,no,David,Martin,,,White,Male,South,United States,Louisiana,No,1/4/85,2,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Roosevelt,Green,,,Black,Male,South,United States,Georgia,No,1/9/85,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Joseph,Shaw,Carl,,White,Male,South,United States,South Carolina,No,1/11/85,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Doyle,Skillern,,,White,Male,South,United States,Texas,No,1/16/85,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,James,Raulerson,,,White,Male,South,United States,Florida,No,1/30/85,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Van,Solomon,Roosevelt,,Black,Male,South,United States,Georgia,No,2/20/85,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Johnny,Witt,Paul,,White,Male,South,United States,Florida,No,3/6/85,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,no,Stephen,Morin,Peter,,White,Male,South,United States,Texas,No,3/13/85,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,John,Young,,,Black,Male,South,United States,Georgia,No,3/20/85,1,0,0,0,0,0,2,0,0,0,0,0,White
+no,2,no,James,Briley,,,Black,Male,South,United States,Virginia,No,4/18/85,0,1,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Jesse,de la Rosa,,,Latinx,Male,South,United States,Texas,No,5/15/85,0,0,0,1,0,0,0,0,0,0,0,0,Asian
+no,6,no,Marvin,Francois,,,Black,Male,South,United States,Florida,No,5/29/85,0,6,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Charles,Milton,,,Black,Male,South,United States,Texas,No,6/25/85,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Morris,Mason,,,Black,Male,South,United States,Virginia,No,6/25/85,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Henry,Porter,Martinez,,Latinx,Male,South,United States,Texas,No,7/9/85,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,yes,Charles,Rumbaugh,,,White,Male,South,United States,Texas,No,9/11/85,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,no,William,Vandiver,,,White,Male,Midwest,United States,Indiana,No,10/16/85,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,no,Carroll,Cole,,,White,Male,West,United States,Nevada,No,12/6/85,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,yes,James,Roach,Terry,,White,Male,South,United States,South Carolina,No,1/10/86,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Charles,Bass,William,,White,Male,South,United States,Texas,No,3/12/86,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Arthur,Jones,Lee,,Black,Male,South,United States,Alabama,No,3/21/86,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Daniel,Thomas,,,Black,Male,South,United States,Florida,No,4/15/86,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,Jeffrey,Barney,Allen,,White,Male,South,United States,Texas,No,4/16/86,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,David,Funchess,,,Black,Male,South,United States,Florida,No,4/22/86,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,yes,Jay,Pinkerton,,,White,Male,South,United States,Texas,No,5/15/86,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Ronald,Straight,,,White,Male,South,United States,Florida,No,5/20/86,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Rudy,Esquivel,,,Latinx,Male,South,United States,Texas,No,6/9/86,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Kenneth,Brock,,,White,Male,South,United States,Texas,No,6/19/86,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Jerome,Bowden,,,Black,Male,South,United States,Georgia,No,6/24/86,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Michael,Smith,,,Black,Male,South,United States,Virginia,No,7/31/86,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Randy,Woolls,,,White,Male,South,United States,Texas,No,8/20/86,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Larry,Smith,,,Black,Male,South,United States,Texas,No,8/22/86,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Chester,Wicker,,,White,Male,South,United States,Texas,No,8/26/86,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,John,Rook,,,White,Male,South,United States,North Carolina,No,9/19/86,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Michael,Evans,Wayne,,Black,Male,South,United States,Texas,No,12/4/86,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,Richard,Andrade,,,Latinx,Male,South,United States,Texas,No,12/18/86,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+yes,1,no,Ramon,Hernandez,,,Latinx,Male,South,United States,Texas,No,1/30/87,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+yes,1,no,Eliseo,Moreno,,,Latinx,Male,South,United States,Texas,No,3/4/87,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Joseph,Mulligan,,,Black,Male,South,United States,Georgia,No,5/15/87,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Edward,Johnson,Earl,,Black,Male,South,United States,Mississippi,No,5/20/87,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Richard,Tucker,,,Black,Male,South,United States,Georgia,No,5/22/87,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Anthony,Williams,,,Black,Male,South,United States,Texas,No,5/28/87,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,William,Tucker,Boyd,,White,Male,South,United States,Georgia,No,5/29/87,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Benjamin,Berry,,,White,Male,South,United States,Louisiana,No,6/7/87,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Alvin,Moore,,,Black,Male,South,United States,Louisiana,No,6/9/87,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Jimmy,Glass,,,White,Male,South,United States,Louisiana,No,6/12/87,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Jimmy,Wingo,,,White,Male,South,United States,Louisiana,No,6/16/87,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Elliot,Johnson,,,Black,Male,South,United States,Texas,No,6/24/87,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Richard,Whitley,,,White,Male,South,United States,Virginia,No,7/6/87,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,John,Thompson,R.,,White,Male,South,United States,Texas,No,7/8/87,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Connie,Evans,Ray,,Black,Male,South,United States,Mississippi,No,7/8/87,0,0,0,1,0,0,0,0,0,0,0,0,Asian
+no,1,no,Willie,Celestine,,,Black,Male,South,United States,Louisiana,No,7/20/87,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Willie,Watson,,,Black,Male,South,United States,Louisiana,No,7/24/87,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,John,Brogdon,,,White,Male,South,United States,Louisiana,No,7/30/87,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Sterling,Rault,,,White,Male,South,United States,Louisiana,No,8/24/87,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,6,no,Beauford,White,,,Black,Male,South,United States,Florida,No,8/28/87,0,6,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Wayne,Ritter,,,White,Male,South,United States,Alabama,No,8/28/87,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,3,no,Dale,Selby,Pierre,,Black,Male,West,United States,Utah,No,8/28/87,1,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Billy,Mitchell,,,Black,Male,South,United States,Georgia,No,9/1/87,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Joseph,Starvaggi,,,White,Male,South,United States,Texas,No,9/10/87,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Timothy,McCorquodale,,,White,Male,South,United States,Georgia,No,9/21/87,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Robert,Streetman,,,White,Male,South,United States,Texas,No,1/7/88,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Willie,Darden,,,Black,Male,South,United States,Florida,No,3/15/88,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Wayne,Felde,,,White,Male,South,United States,Louisiana,No,3/15/88,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,5,no,Leslie,Lowenfield,,,Black,Male,South,United States,Louisiana,Yes,4/13/88,0,1,0,0,0,0,0,4,0,0,0,0,Black
+no,1,no,Earl,Clanton,,,Black,Male,South,United States,Virginia,No,4/14/88,0,0,0,0,0,0,0,1,0,0,0,0,Black
+yes,5,no,Arthur,Bishop,,,White,Male,West,United States,Utah,No,6/10/88,5,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Edward,Byrne,,,White,Male,South,United States,Louisiana,No,6/14/88,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,James,Messer,,,White,Male,South,United States,Georgia,No,7/28/88,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Donald,Franklin,Gene,,Black,Male,South,United States,Texas,No,11/3/88,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Jeffrey,Daugherty,,,White,Male,South,United States,Florida,No,11/7/88,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Raymond,Landry,,,Black,Male,South,United States,Texas,No,12/13/88,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,George,Mercer,,,White,Male,Midwest,United States,Missouri,No,1/6/89,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Theodore,Bundy,,,White,Male,South,United States,Florida,No,1/24/89,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Leon,King,Rutherford,,Black,Male,South,United States,Texas,No,3/22/89,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Aubrey,Adams,,,White,Male,South,United States,Florida,No,5/4/89,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Henry,Willis,,,Black,Male,South,United States,Georgia,No,5/18/89,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Stephen,McCoy,,,White,Male,South,United States,Texas,No,5/24/89,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Michael,Lindsey,,,Black,Male,South,United States,Alabama,No,5/26/89,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,William,Thompson,Paul,,White,Male,West,United States,Nevada,No,6/19/89,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Leo,Edwards,,,Black,Male,South,United States,Mississippi,No,6/21/89,0,1,0,0,0,0,0,0,0,0,0,0,Black
+yes,1,no,Sean,Flanagan,Patrick,,White,Male,West,United States,Nevada,No,6/23/89,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Horace,Dunkins,F.,,Black,Male,South,United States,Alabama,No,7/14/89,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Herbert,Richardson,,,Black,Male,South,United States,Alabama,No,8/18/89,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Alton,Waye,,,Black,Male,South,United States,Virginia,No,8/30/89,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,James,Paster,,,White,Male,South,United States,Texas,No,9/20/89,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Arthur,Julius,,,Black,Male,South,United States,Alabama,No,11/17/89,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Carlos,DeLuna,,,Latinx,Male,South,United States,Texas,No,12/7/89,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+yes,1,no,Gerald,Smith,,,White,Male,Midwest,United States,Missouri,No,1/18/90,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,Jerome,Butler,,,Black,Male,South,United States,Texas,No,4/21/90,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Ronald,Woomer,,,White,Male,South,United States,South Carolina,No,4/27/90,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Jesse,Tafero,,,White,Male,South,United States,Florida,No,5/4/90,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Winford,Stokes,,,Black,Male,Midwest,United States,Missouri,No,5/11/90,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,2,no,Leonard,Laws,Marvin,,White,Male,Midwest,United States,Missouri,No,5/17/90,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Johnny,Anderson,Ray,,White,Male,South,United States,Texas,No,5/17/90,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,yes,Dalton,Prejean,,,Black,Male,South,United States,Louisiana,No,5/18/90,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,no,Thomas,Baal,,,White,Male,West,United States,Nevada,No,6/3/90,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,John,Swindler,,,White,Male,South,United States,Arkansas,No,6/18/90,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,16,no,Ronald,Simmons,Gene,,White,Male,South,United States,Arkansas,No,6/25/90,6,0,0,0,0,0,10,0,0,0,0,0,White
+yes,1,no,James,Smith,,,Black,Male,South,United States,Texas,No,6/26/90,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Wallace,Thomas,Norrell,,Black,Male,South,United States,Alabama,No,7/13/90,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Mikel,Derrick,,,White,Male,South,United States,Texas,No,7/18/90,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Richard,Boggs,T.,,White,Male,South,United States,Virginia,No,7/19/90,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Anthony,Bertolotti,,,Black,Male,South,United States,Florida,No,7/27/90,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,George,Gilmore,C.,,White,Male,Midwest,United States,Missouri,No,8/31/90,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Charles,Coleman,,,White,Male,South,United States,Oklahoma,No,9/10/90,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,2,no,Charles,Walker,,,White,Male,Midwest,United States,Illinois,No,9/12/90,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,James,Hamblen,,,White,Male,South,United States,Florida,No,9/21/90,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Wilbert,Evans,L.,,Black,Male,South,United States,Virginia,No,10/17/90,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Raymond,Clark,R.,,White,Male,South,United States,Florida,No,11/19/90,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Buddy,Justus,Earl,,White,Male,South,United States,Virginia,No,12/13/90,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Lawrence,Buxton,Lee,,Black,Male,South,United States,Texas,No,2/26/91,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Roy,Harich,Allen,,White,Male,South,United States,Florida,No,4/24/91,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Ignacio,Cuevas,,,Latinx,Male,South,United States,Texas,No,5/23/91,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Jerry,Bird,,,White,Male,South,United States,Texas,No,6/17/91,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Bobby,Francis,Marion,,Black,Male,South,United States,Florida,No,6/25/91,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Andrew,Jones,Lee,,Black,Male,South,United States,Louisiana,No,7/22/91,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Albert,Clozza,,,White,Male,South,United States,Virginia,No,7/24/91,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Derick,Peterson,Lynn,,Black,Male,South,United States,Virginia,No,8/22/91,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,4,no,Maurice,Byrd,,,Black,Male,Midwest,United States,Missouri,No,8/23/91,1,0,0,0,0,0,3,0,0,0,0,0,White
+no,1,no,Donald,Gaskins,,,White,Male,South,United States,South Carolina,No,9/6/91,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,James,Russell,,,Black,Male,South,United States,Texas,No,9/19/91,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Warren,McCleskey,,,Black,Male,South,United States,Georgia,No,9/25/91,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Michael,van McDougall,,,White,Male,South,United States,North Carolina,No,10/18/91,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,G.W.,Green,,,White,Male,South,United States,Texas,No,11/12/91,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Mark,Hopkinson,,,White,Male,West,United States,Wyoming,No,1/22/92,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Joe,Cordova,Angel,,Latinx,Male,South,United States,Texas,No,1/22/92,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Ricky,Rector,R.,,Black,Male,South,United States,Arkansas,No,1/24/92,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,yes,Johnny,Garrett,Frank,,White,Male,South,United States,Texas,No,2/11/92,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,David,Clark,M.,,White,Male,South,United States,Texas,No,2/28/92,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Edward,Ellis,,,White,Male,South,United States,Texas,No,3/3/92,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Robyn,Parks,L.,,Black,Male,South,United States,Oklahoma,No,3/10/92,0,0,0,1,0,0,0,0,0,0,0,0,Asian
+no,3,no,Olan,Robison,R.,,White,Male,South,United States,Oklahoma,No,3/13/92,0,0,0,0,0,0,3,0,0,0,0,0,White
+yes,2,no,Steven,Pennell,B.,,White,Male,South,United States,Delaware,No,3/14/92,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Larry,Heath,Gene,,White,Male,South,United States,Alabama,No,3/20/92,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Donald,Harding,Eugene,,White,Male,West,United States,Arizona,No,4/6/92,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Robert,Harris,Alton,,White,Male,West,United States,California,No,4/21/92,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,William,White,Wayne,,Black,Male,South,United States,Texas,No,4/23/92,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Justin,May,Lee,,White,Male,South,United States,Texas,No,5/7/92,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Stephen,Hill,D.,,White,Male,South,United States,Arkansas,No,5/7/92,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Nollie,Martin,,,White,Male,South,United States,Florida,No,5/12/92,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Jesus,Romero,,,Latinx,Male,South,United States,Texas,No,5/20/92,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,Roger,Coleman,Keith,,White,Male,South,United States,Virginia,No,5/20/92,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Robert,Black,,,White,Male,South,United States,Texas,No,5/22/92,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Edward,Kennedy,D.,,Black,Male,South,United States,Florida,No,7/21/92,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Edward,Fitzgerald,,,White,Male,South,United States,Virginia,No,7/23/92,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,William,Andrews,,,Black,Male,West,United States,Utah,No,7/30/92,1,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Curtis,Johnson,Lee,,Black,Male,South,United States,Texas,No,8/11/92,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Willie,Jones,LeRoy,,Black,Male,South,United States,Virginia,No,9/15/92,0,1,0,0,0,0,0,1,0,0,0,0,Black
+no,2,no,James,Demouchette,,,Black,Male,South,United States,Texas,No,9/22/92,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Ricky,Grubbs,Lee,,White,Male,Midwest,United States,Missouri,No,10/21/92,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,John,Gardner,S.,Jr.,White,Male,South,United States,North Carolina,No,10/23/92,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Jeffery,Griffin,,,Black,Male,South,United States,Texas,No,11/19/92,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Cornelius,Singleton,,,Black,Male,South,United States,Alabama,No,11/20/92,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Kavin,Lincecum,,,Black,Male,South,United States,Texas,No,12/10/92,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Timothy,Bunch,,,White,Male,South,United States,Virginia,No,12/10/92,0,0,0,0,0,0,0,0,0,1,0,0,Asian
+yes,3,no,Westley,Dodd,Allan,,White,Male,West,United States,Washington,No,1/5/93,3,0,0,0,0,0,0,0,0,0,0,0,White
+no,3,no,Charles,Stamper,,,Black,Male,South,United States,Virginia,No,1/19/93,3,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Martsay,Bolder,,,Black,Male,Midwest,United States,Missouri,No,1/27/93,0,1,0,0,0,0,0,0,0,0,0,0,Black
+yes,1,no,John,Brewer,George,,White,Male,West,United States,Arizona,No,3/3/93,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,James,Red Dog,Allen,,American Indian or Alaska Native,Male,South,United States,Delaware,No,3/3/93,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Robert,Sawyer,,,White,Male,South,United States,Louisiana,No,3/5/93,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,5,no,Syvasky,Poyner,,,Black,Male,South,United States,Virginia,No,3/18/93,0,0,0,0,0,0,4,1,0,0,0,0,Multiple (including White)
+no,1,no,Carlos,Santana,,,Latinx,Male,South,United States,Texas,Yes,3/23/93,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Ramon,Montoya,,,Latinx,Male,South,United States,Texas,Yes,3/25/93,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,4,no,James,Clark,,,White,Male,West,United States,Arizona,No,4/14/93,3,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,Robert,Henderson,,,White,Male,South,United States,Florida,No,4/21/93,3,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Darryl,Stewart,,,Black,Male,South,United States,Texas,No,5/4/93,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Larry,Johnson,Joe,,White,Male,South,United States,Florida,No,5/5/93,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Leonel,Herrera,,,Latinx,Male,South,United States,Texas,No,5/12/93,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,John,Sawyers,,,White,Male,South,United States,Texas,No,5/18/93,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,Andrew,Chabrol,,,White,Male,South,United States,Virginia,No,6/17/93,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Thomas,Stevens,Dean,,White,Male,South,United States,Georgia,No,6/28/93,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Markham,Duff-Smith,,,White,Male,South,United States,Texas,No,6/29/93,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,yes,Curtis,Harris,,,Black,Male,South,United States,Texas,No,7/1/93,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Walter,Blair,Junior,,Black,Male,Midwest,United States,Missouri,No,7/21/93,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,yes,Frederick,Lashley,,,Black,Male,Midwest,United States,Missouri,No,7/28/93,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Danny,Harris,,,Black,Male,South,United States,Texas,No,7/30/93,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Joseph,Jernigan,,,White,Male,South,United States,Texas,No,8/5/93,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,David,Holland,Lee,,White,Male,South,United States,Texas,No,8/12/93,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Carl,Kelly,,,Black,Male,South,United States,Texas,No,8/20/93,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,yes,Ruben,Cantu,,,Latinx,Male,South,United States,Texas,No,8/24/93,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+yes,5,no,David,Mason,,,White,Male,West,United States,California,No,8/24/93,2,0,0,0,0,0,3,0,0,0,0,0,White
+yes,1,no,Michael,Durocher,,,White,Male,South,United States,Florida,No,8/25/93,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Richard,Wilkerson,,,Black,Male,South,United States,Texas,No,8/31/93,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Kenneth,DeShields,,,Black,Male,South,United States,Delaware,No,8/31/93,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Johnny,James,,,White,Male,South,United States,Texas,No,9/3/93,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Joseph,Wise,,,Black,Male,South,United States,Virginia,No,9/14/93,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Antonio,Bonham,,,Black,Male,South,United States,Texas,No,9/28/93,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Frank,Guinan,,,White,Male,Midwest,United States,Missouri,No,10/6/93,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,no,Anthony,Cook,,,White,Male,South,United States,Texas,No,11/10/93,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,yes,Christopher,Burger,,,White,Male,South,United States,Georgia,No,12/7/93,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Clifford,Phillips,,,Black,Male,South,United States,Texas,No,12/15/93,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,David,Pruett,,,White,Male,South,United States,Virginia,No,12/16/93,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,2,no,Keith,Wells,,,White,Male,West,United States,Idaho,No,1/6/94,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Harold,Barnard,,,White,Male,South,United States,Texas,No,2/2/94,0,0,0,1,0,0,0,0,0,0,0,0,Asian
+no,1,no,Johnny,Watkins,,Jr.,Black,Male,South,United States,Virginia,No,3/3/94,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Freddie,Webb,Lee,Sr.,Black,Male,South,United States,Texas,No,3/31/94,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,William,Hance,Henry,,Black,Male,South,United States,Georgia,No,3/31/94,0,0,0,0,0,0,0,1,0,0,0,0,Black
+yes,1,no,Richard,Beavers,Lee,,White,Male,South,United States,Texas,No,4/4/94,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Roy,Stewart,Allen,,White,Male,South,United States,Florida,No,4/22/94,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Larry,Anderson,,,White,Male,South,United States,Texas,No,4/26/94,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Timothy,Spencer,,,Black,Male,South,United States,Virginia,No,4/27/94,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Paul,Rougeau,,,Black,Male,South,United States,Texas,No,5/3/94,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,12,no,John,Gacy,Wayne,,White,Male,Midwest,United States,Illinois,No,5/10/94,12,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Edward,Pickens,,,Black,Male,South,United States,Arkansas,No,5/11/94,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Jonas,Whitmore,,,White,Male,South,United States,Arkansas,No,5/11/94,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,John,Thanos,,,White,Male,South,United States,Maryland,No,5/17/94,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Stephen,Nethery,,,White,Male,South,United States,Texas,No,5/27/94,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,3,no,Charles,Campbell,,,White,Male,West,United States,Washington,No,5/27/94,0,0,0,0,0,0,3,0,0,0,0,0,White
+no,1,no,Denton,Crank,,,White,Male,South,United States,Texas,No,6/14/94,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,David,Lawson,,,White,Male,South,United States,North Carolina,No,6/15/94,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Andre,Deputy,,,Black,Male,South,United States,Delaware,No,6/23/94,0,1,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Robert,Drew,,,White,Male,South,United States,Texas,No,8/2/94,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Hoyt,Clines,,,White,Male,South,United States,Arkansas,No,8/3/94,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Darryl,Richley,,,White,Male,South,United States,Arkansas,No,8/3/94,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,James,Holmes,,,White,Male,South,United States,Arkansas,No,8/3/94,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Harold,Otey,,,Black,Male,Midwest,United States,Nebraska,No,9/2/94,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Jessie,Gutierrez,,,Latinx,Male,South,United States,Texas,No,9/16/94,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,2,no,George,Lott,,,White,Male,South,United States,Texas,No,9/20/94,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Walter,Williams,,,Black,Male,South,United States,Texas,No,10/5/94,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Warren,Bridge,,,White,Male,South,United States,Texas,No,11/22/94,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Herman,Clark,,,Black,Male,South,United States,Texas,No,12/6/94,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Gregory,Resnover,,,Black,Male,Midwest,United States,Indiana,No,12/8/94,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Raymond,Kinnamon,,,White,Male,South,United States,Texas,No,12/11/94,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Jesse,Jacobs,D.,,White,Male,South,United States,Texas,No,1/4/95,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Mario,Marquez,S.,,Latinx,Male,South,United States,Texas,No,1/17/95,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,Kermit,Smith,,Jr.,White,Male,South,United States,North Carolina,No,1/24/95,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Dana,Edmonds,Ray,,Black,Male,South,United States,Virginia,No,1/24/95,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Clifton,Russell,,,White,Male,South,United States,Texas,No,1/31/95,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Willie,Williams,Ray,,Black,Male,South,United States,Texas,No,1/31/95,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Jeffrey,Motley,D.,,White,Male,South,United States,Texas,No,2/7/95,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,Billy,Gardner,Conn,,White,Male,South,United States,Texas,No,2/16/95,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Samuel,Hawkins,,,Black,Male,South,United States,Texas,No,2/21/95,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,Nelson,Shelton,,,White,Male,South,United States,Delaware,No,3/17/95,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,no,Thomas,Grasso,,,White,Male,South,United States,Oklahoma,No,3/20/95,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Hernando,Williams,,,Black,Male,Midwest,United States,Illinois,No,3/22/95,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,James,Free,,,White,Male,Midwest,United States,Illinois,No,3/22/95,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Noble,Mays,D.,,White,Male,South,United States,Texas,No,4/6/95,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Nicholas,Ingram,,,White,Male,South,United States,Georgia,No,4/7/95,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Richard,Snell,,,White,Male,South,United States,Arkansas,No,4/19/95,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Willie,Clisby,,,Black,Male,South,United States,Alabama,No,4/28/95,0,1,0,0,0,0,0,0,0,0,0,0,Black
+yes,1,no,Keith,Zettlemoyer,,,White,Male,Northeast,United States,Pennsylvania,No,5/2/95,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Emmitt,Foster,,,Black,Male,Midwest,United States,Missouri,No,5/3/95,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Duncan,McKenzie,,,White,Male,West,United States,Montana,No,5/10/95,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Varnall,Weeks,,,Black,Male,South,United States,Alabama,No,5/12/95,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Thomas,Ward,Lee,,Black,Male,South,United States,Louisiana,No,5/16/95,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Girvies,Davis,,,Black,Male,Midwest,United States,Illinois,No,5/17/95,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Darrell,Devier,Gene,,White,Male,South,United States,Georgia,No,5/17/95,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Willie,Turner,Lloyd,,Black,Male,South,United States,Virginia,No,5/25/95,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Fletcher,Mann,Thomas,,White,Male,South,United States,Texas,No,6/1/95,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Ronald,Allridge,K.,,Black,Male,South,United States,Texas,No,6/8/95,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,John,Fearance,,Jr.,Black,Male,South,United States,Texas,No,6/20/95,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Karl,Hammond,,,Black,Male,South,United States,Texas,No,6/21/95,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Larry,Griffin,,,Black,Male,Midwest,United States,Missouri,No,6/21/95,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,6,no,Roger,Stafford,Dale,,White,Male,South,United States,Oklahoma,No,7/1/95,3,1,1,0,0,0,1,0,0,0,0,0,Multiple (including White)
+no,4,no,Bernard,Bolender,,,White,Male,South,United States,Florida,No,7/18/95,1,0,3,0,0,0,0,0,0,0,0,0,Multiple (including White)
+no,2,no,Robert,Murray,,,Black,Male,Midwest,United States,Missouri,No,7/26/95,0,2,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Robert,Brecheen,,,White,Male,South,United States,Oklahoma,No,8/11/95,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Vernon,Sattiewhite,,,Black,Male,South,United States,Texas,No,8/15/95,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,3,no,Leon,Moser,,,White,Male,Northeast,United States,Pennsylvania,No,8/16/95,0,0,0,0,0,0,3,0,0,0,0,0,White
+no,1,no,Sylvester,Adams,,,Black,Male,South,United States,South Carolina,No,8/18/95,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Barry,Fairchild,Lee,,Black,Male,South,United States,Arkansas,No,8/31/95,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Jimmie,Jeffers,,,White,Male,West,United States,Arizona,No,9/13/95,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Carl,Johnson,,,Black,Male,South,United States,Texas,No,9/19/95,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Charles,Albanese,,,White,Male,Midwest,United States,Illinois,No,9/20/95,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,2,no,Phillip,Ingle,Lee,,White,Male,South,United States,North Carolina,No,9/22/95,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Dennis,Stockton,W.,,White,Male,South,United States,Virginia,No,9/27/95,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Harold,Lane,Joe,,White,Male,South,United States,Texas,No,10/4/95,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,3,no,Mickey,Davidson,Wayne,,White,Male,South,United States,Virginia,No,10/19/95,0,0,0,0,0,0,3,0,0,0,0,0,White
+no,1,no,Herman,Barnes,Charles,,Black,Male,South,United States,Virginia,No,11/13/95,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Robert,Sidebottom,,,White,Male,Midwest,United States,Missouri,No,11/15/95,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,George,Del Vecchio,,,White,Male,Midwest,United States,Illinois,No,11/22/95,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Anthony,LaRette,Joe,,White,Male,Midwest,United States,Missouri,No,11/29/95,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Jerry,White,,,Black,Male,South,United States,Florida,No,12/4/95,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Philip,Atkins,,,White,Male,South,United States,Florida,No,12/5/95,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Robert,O'Neal,,,White,Male,Midwest,United States,Missouri,No,12/6/95,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Bernard,Amos,,,Black,Male,South,United States,Texas,No,12/6/95,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Hai,Vuong,Hai,,Asian,Male,South,United States,Texas,No,12/7/95,0,0,0,2,0,0,0,0,0,0,0,0,Asian
+yes,1,no,Esequel,Banda,,,Latinx,Male,South,United States,Texas,No,12/11/95,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,James,Briddle,Michael,,White,Male,South,United States,Texas,No,12/12/95,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Walter,Correll,,,White,Male,South,United States,Virginia,No,1/4/96,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Richard,Townes,,Jr.,Black,Male,South,United States,Virginia,No,1/23/96,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Billy,Bailey,,,White,Male,South,United States,Delaware,No,1/25/96,1,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,John,Taylor,Albert,,White,Male,West,United States,Utah,No,1/26/96,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,William,Flamer,,,Black,Male,South,United States,Delaware,No,1/30/96,0,1,0,0,0,0,0,1,0,0,0,0,Black
+yes,2,no,Leo,Jenkins,,,White,Male,South,United States,Texas,No,2/9/96,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Edward,Horsley,Dean,,Black,Male,South,United States,Alabama,No,2/16/96,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Jeffery,Sloan,Paul,,White,Male,Midwest,United States,Missouri,No,2/21/96,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,4,no,William,Bonin,George,,White,Male,West,United States,California,No,2/23/96,4,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Kenneth,Granviel,,,Black,Male,South,United States,Texas,No,2/27/96,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Antonio,James,,,Black,Male,South,United States,Louisiana,No,3/1/96,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Richard,Moran,Allen,,White,Male,West,United States,Nevada,No,3/30/96,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Doyle,Williams,,,White,Male,Midwest,United States,Missouri,No,4/10/96,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,2,no,James,Clark,,Jr.,White,Male,South,United States,Delaware,No,4/19/96,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Benjamin,Brewer,,,White,Male,South,United States,Oklahoma,No,4/26/96,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,Keith,Williams,Daniel,,White,Male,West,United States,California,No,5/3/96,0,0,2,0,0,0,0,0,1,0,0,0,Latinx
+yes,1,no,Robert,South,,,White,Male,South,United States,South Carolina,No,5/31/96,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,no,Daren,Bolton,Lee,,White,Male,West,United States,Arizona,No,6/19/96,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,John,Joubert,,,White,Male,Midwest,United States,Nebraska,No,7/17/96,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Joseph,Savino,,,White,Male,South,United States,Virginia,No,7/17/96,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Tommie,Smith,,,Black,Male,Midwest,United States,Indiana,No,7/18/96,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,3,no,Fred,Kornahrens,,,White,Male,South,United States,South Carolina,No,7/19/96,2,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Emmet,Nave,,,American Indian or Alaska Native,Male,Midwest,United States,Missouri,No,7/31/96,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Thomas,Battle,,,Black,Male,Midwest,United States,Missouri,No,8/7/96,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,2,no,William,Parker,Frank,,White,Male,South,United States,Arkansas,No,8/8/96,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Stephen,Hatch,,,White,Male,South,United States,Oklahoma,No,8/9/96,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Richard,Oxford,,,White,Male,Midwest,United States,Missouri,No,8/21/96,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Luis,Mata,,,Latinx,Male,West,United States,Arizona,No,8/22/96,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,3,no,Michael,Torrence,,,White,Male,South,United States,South Carolina,No,9/6/96,2,0,0,0,0,0,1,0,0,0,0,0,White
+yes,3,no,Douglas,Wright,Franklin,,White,Male,West,United States,Oregon,No,9/6/96,3,0,0,0,0,0,0,0,0,0,0,0,White
+no,3,no,Raymond,Stewart,Lee,,Black,Male,Midwest,United States,Illinois,No,9/18/96,1,2,0,0,0,0,0,0,0,0,0,0,Multiple (including White)
+yes,1,no,Joe,Gonzales,,,Latinx,Male,South,United States,Texas,No,9/18/96,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Larry,Bell,Gene,,White,Male,South,United States,South Carolina,No,10/4/96,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,John,Bush,Earl,,Black,Male,South,United States,Florida,No,10/21/96,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,Larry,Lonchar,,,White,Male,South,United States,Georgia,No,11/14/96,2,0,0,0,0,0,1,0,0,0,0,0,White
+yes,2,no,Doyle,Lucas,Cecil,,White,Male,South,United States,South Carolina,No,11/15/96,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Ellis,Felker,Wayne,,White,Male,South,United States,Georgia,No,11/15/96,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Ronald,Bennett,,,Black,Male,South,United States,Virginia,No,11/21/96,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Frank,Middleton,,Jr.,Black,Male,South,United States,South Carolina,No,11/22/96,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Gregory,Beaver,Warren,,White,Male,South,United States,Virginia,No,12/3/96,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,John,Mills,,Jr.,Black,Male,South,United States,Florida,No,12/6/96,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Larry,Stout,Allen,,Black,Male,South,United States,Virginia,No,12/10/96,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Richard,Zeitvogel,,,White,Male,Midwest,United States,Missouri,No,12/11/96,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Lem,Tuggle,,,White,Male,South,United States,Virginia,No,12/12/96,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Ronald,Hoke,Lee,,White,Male,South,United States,Virginia,No,12/16/96,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Earl,Van Denton,,,White,Male,South,United States,Arkansas,No,1/8/97,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Paul,Ruiz,,,Latinx,Male,South,United States,Arkansas,No,1/8/97,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Kirt,Wainwright,,,Black,Male,South,United States,Arkansas,No,1/8/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Billy,Waldrop,Wayne,,White,Male,South,United States,Alabama,No,1/10/97,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,4,no,Randy,Greenawalt,,,White,Male,West,United States,Arizona,No,1/23/97,2,0,0,0,0,0,2,0,0,0,0,0,White
+no,2,no,Eric,Schneider,,,White,Male,Midwest,United States,Missouri,No,1/29/97,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Michael,George,Carl,,White,Male,South,United States,Virginia,No,2/6/97,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,no,Richard,Brimage,,Jr.,White,Male,South,United States,Texas,No,2/10/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Coleman,Gray,,,Black,Male,South,United States,Virginia,No,2/26/97,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,John,Barefield,Kennedy,,Black,Male,South,United States,Texas,No,3/12/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Pedro,Medina,,,Latinx,Male,South,United States,Florida,Yes,3/25/97,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,David,Herman,Lee,,White,Male,South,United States,Texas,No,4/2/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,David,Spence,,,White,Male,South,United States,Texas,No,4/3/97,1,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Billy,Woods,Joe,,White,Male,South,United States,Texas,No,4/14/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Kenneth,Gentry,,,White,Male,South,United States,Texas,No,4/16/97,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Benjamin,Boyle,,,White,Male,South,United States,Texas,No,4/21/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,John,Brown,Ashley,Jr.,White,Male,South,United States,Louisiana,No,4/24/97,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Ernest,Baldree,Orville,,White,Male,South,United States,Texas,No,4/29/97,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,Walter,Hill,,,Black,Male,South,United States,Alabama,No,5/2/97,0,2,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Terry,Washington,,,Black,Male,South,United States,Texas,No,5/6/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,Scott,Carpenter,,,American Indian or Alaska Native,Male,South,United States,Oklahoma,No,5/8/97,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Anthony,Westley,Ray,,Black,Male,South,United States,Texas,No,5/13/97,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,2,no,Harry,Moore,Charles,,White,Male,West,United States,Oregon,No,5/16/97,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Clifton,Belyeu,,,White,Male,South,United States,Texas,No,5/16/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,Richard,Drinkard,,,White,Male,South,United States,Texas,No,5/19/97,1,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Clarence,Lackey,,,White,Male,South,United States,Texas,No,5/20/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Bruce,Callins,,,Black,Male,South,United States,Texas,No,5/21/97,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Larry,White,Wayne,,White,Male,South,United States,Texas,No,5/22/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Robert,Madden,,,White,Male,South,United States,Texas,No,5/28/97,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Patrick,Rogers,,,Black,Male,South,United States,Texas,No,6/2/97,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Kenneth,Harris,,,Black,Male,South,United States,Texas,No,6/3/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Dorsie,Johnson,,,Black,Male,South,United States,Texas,No,6/4/97,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Davis,Losada,,,Latinx,Male,South,United States,Texas,No,6/4/97,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,Henry,Hays,Francis,,White,Male,South,United States,Alabama,No,6/6/97,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,2,no,Earl,Behringer,,,White,Male,South,United States,Texas,No,6/11/97,1,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,Michael,Elkins,Eugene,,White,Male,South,United States,South Carolina,No,6/13/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,David,Stoker,,,White,Male,South,United States,Texas,No,6/16/97,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,3,no,Eddie,Johnson,James,,Black,Male,South,United States,Texas,No,6/17/97,1,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Irineo,Montoya,,,Latinx,Male,South,United States,Texas,Yes,6/18/97,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,William,Woratzeck,Lyle,,White,Male,West,United States,Arizona,No,6/25/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Harold,McQueen,,,White,Male,South,United States,Kentucky,No,7/1/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Flint,Hunt,Gregory,,Black,Male,South,United States,Maryland,No,7/2/97,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Roy,Smith,Bruce,,White,Male,South,United States,Virginia,No,7/17/97,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Joseph,O'Dell,Roger,III,White,Male,South,United States,Virginia,No,7/23/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Robert,West,,,American Indian or Alaska Native,Male,South,United States,Texas,No,7/29/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Ralph,Feltrop,Cecil,,White,Male,Midwest,United States,Missouri,No,8/6/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Eugene,Perry,Wallace,,White,Male,South,United States,Arkansas,No,8/6/97,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Donald,Reese,E.,,White,Male,Midwest,United States,Missouri,No,8/13/97,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Carlton,Pope,Jerome,,Black,Male,South,United States,Virginia,No,8/19/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Andrew,Six,,,White,Male,Midwest,United States,Missouri,No,8/20/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,James,Davis,Carl Lee,,Black,Male,South,United States,Texas,No,9/9/97,0,2,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Mario,Murphy,Benjamin,,Latinx,Male,South,United States,Virginia,Yes,9/17/97,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Jessel,Turner,,,Black,Male,South,United States,Texas,No,9/22/97,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Samuel,McDonald,,Jr.,Black,Male,Midwest,United States,Missouri,No,9/24/97,0,1,0,0,0,0,0,0,0,0,0,0,Black
+yes,2,no,Benjamin,Stone,,,White,Male,South,United States,Texas,No,9/25/97,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Johnny,Cockrum,,,White,Male,South,United States,Texas,No,9/30/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Dwight,Adanandus,Dwayne,,Black,Male,South,United States,Texas,No,10/1/97,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Ricky,Green,Lee,,White,Male,South,United States,Texas,No,10/8/97,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Gary,Davis,Lee,,White,Male,West,United States,Colorado,No,10/13/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Alan,Bannister,,,White,Male,Midwest,United States,Missouri,No,10/22/97,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Kenneth,Ransom,Ray,,Black,Male,South,United States,Texas,No,10/28/97,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Aua,Lauti,,,Asian,Male,South,United States,Texas,No,11/4/97,0,0,0,0,0,0,0,0,0,1,0,0,Asian
+no,1,no,Aaron,Fuller,Lee,,White,Male,South,United States,Texas,No,11/6/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Earl,Matthews,,,Black,Male,South,United States,South Carolina,No,11/7/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Dawud,Mu'Min,Majid,,Black,Male,South,United States,Virginia,No,11/13/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Walter,Stewart,,,Black,Male,Midwest,United States,Illinois,No,11/19/97,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Durlyn,Eddmonds,,,Black,Male,Midwest,United States,Illinois,No,11/19/97,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,2,no,Michael,Sharp,Eugene,,White,Male,South,United States,Texas,No,11/19/97,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Gary,Burris,,,Black,Male,Midwest,United States,Indiana,No,11/20/97,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Charlie,Livingston,,,Black,Male,South,United States,Texas,No,11/21/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Robert,Williams,E.,,Black,Male,Midwest,United States,Nebraska,No,12/2/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Michael,Lockhart,,,White,Male,South,United States,Texas,No,12/9/97,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Michael,Satcher,Charles,,Black,Male,South,United States,Virginia,No,12/9/97,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Thomas,Beavers,,,White,Male,South,United States,Virginia,No,12/11/97,0,0,0,0,0,0,0,1,0,0,0,0,Black
+yes,1,no,Lloyd,Hampton,Wayne,,White,Male,Midwest,United States,Illinois,No,1/21/98,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Jose,Ceja,Jesus,,Latinx,Male,West,United States,Arizona,No,1/21/98,1,0,0,0,0,0,0,0,1,0,0,0,Multiple (including White)
+yes,1,no,Robert,Smith,A.,,White,Male,Midwest,United States,Indiana,No,1/29/98,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,no,Ricky,Sanderson,Lee,,White,Male,South,United States,North Carolina,No,1/30/98,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Karla,Tucker,Faye,,White,Female,South,United States,Texas,No,2/3/98,1,0,0,0,0,0,1,0,0,0,0,0,White
+yes,3,no,Steven,Renfro,,,White,Male,South,United States,Texas,No,2/9/98,1,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Tony,Mackall,A.,,Black,Male,South,United States,Virginia,No,2/10/98,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,2,no,Michael,Long,Edward,,White,Male,South,United States,Oklahoma,No,2/20/98,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Terry,Langford,Allen,,White,Male,West,United States,Montana,No,2/24/98,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Reginald,Powell,,,Black,Male,Midwest,United States,Missouri,No,2/25/98,0,2,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,John,Arnold,,,White,Male,South,United States,South Carolina,No,3/6/98,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Jerry,Hogue,Lee,,White,Male,South,United States,Texas,No,3/11/98,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,4,no,Douglas,Buchanan,,,White,Male,South,United States,Virginia,No,3/18/98,3,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Gerald,Stano,,,White,Male,South,United States,Florida,No,3/23/98,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Leo,Jones,,,Black,Male,South,United States,Florida,No,3/24/98,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Milton,Griffin-El,,,Black,Male,Midwest,United States,Missouri,No,3/25/98,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Ronald,Watkins,,,Black,Male,South,United States,Virginia,No,3/25/98,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Judy,Buenoano,,,White,Female,South,United States,Florida,No,3/30/98,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Daniel,Remeta,,,American Indian or Alaska Native,Male,South,United States,Florida,No,3/31/98,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Angel,Breard,Francisco,,Latinx,Male,South,United States,Virginia,Yes,4/14/98,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Glennon,Sweet,,,White,Male,Midwest,United States,Missouri,No,4/22/98,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Jose,Villafuerte,,,Latinx,Male,West,United States,Arizona,Yes,4/22/98,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,1,yes,Joseph,Cannon,,,White,Male,South,United States,Texas,No,4/22/98,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Lesley,Gosch,Lee,,White,Male,South,United States,Texas,No,4/24/98,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,Arthur,Ross,Martin,,White,Male,West,United States,Arizona,No,4/29/98,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Frank,McFarland,Basil,,White,Male,South,United States,Texas,No,4/29/98,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Steven,Thompson,Allen,,White,Male,South,United States,Alabama,No,5/8/98,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,yes,Robert,Carter,Anthony,,Black,Male,South,United States,Texas,No,5/18/98,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,Pedro,Muniz,Cruz,,Latinx,Male,South,United States,Texas,No,5/19/98,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Douglas,Gretzler,Edward,,White,Male,West,United States,Arizona,No,6/3/98,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,David,Cargill,Loomis,,White,Male,South,United States,Georgia,No,6/9/98,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Clifford,Boggess,Holt,,White,Male,South,United States,Texas,No,6/11/98,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Johnny,Pyles,,,White,Male,South,United States,Texas,No,6/15/98,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Dennis,Eaton,Wayne,,White,Male,South,United States,Virginia,No,6/18/98,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,4,no,Leopoldo,Narvaiz,,,Latinx,Male,South,United States,Texas,No,6/26/98,1,0,0,0,0,0,3,0,0,0,0,0,White
+no,1,no,Wilburn,Henderson,A.,,White,Male,South,United States,Arkansas,No,7/8/98,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,John,Plath,,,White,Male,South,United States,South Carolina,No,7/10/98,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Thomas,Thompson,,,White,Male,West,United States,California,No,7/14/98,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Danny,King,Lee,,White,Male,South,United States,Virginia,No,7/23/98,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,Stephen,Wood,,,White,Male,South,United States,Oklahoma,No,8/5/98,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Zane,Hill,Brown,,White,Male,South,United States,North Carolina,No,8/14/98,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Lance,Chandler,,,Black,Male,South,United States,Virginia,No,8/20/98,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Genaro,Camacho,Ruiz,,Latinx,Male,South,United States,Texas,No,8/26/98,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Johnile,DuBois,,,Black,Male,South,United States,Virginia,No,8/31/98,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Delbert,Teague,,,White,Male,South,United States,Texas,No,9/9/98,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,David,Castillo,,,Latinx,Male,South,United States,Texas,No,9/23/98,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,2,no,Kenneth,Stewart,,,White,Male,South,United States,Virginia,No,9/23/98,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,Sammy,Roberts,,,White,Male,South,United States,South Carolina,No,9/25/98,2,0,0,0,0,0,0,1,0,0,0,0,Multiple (including White)
+no,2,no,Javier,Cruz,,,Latinx,Male,South,United States,Texas,No,10/1/98,0,1,0,0,0,0,1,0,0,0,0,0,Multiple (including White)
+yes,1,no,Roderick,Abeyta,,,Latinx,Male,West,United States,Nevada,No,10/5/98,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Jonathan,Nobles,,,White,Male,South,United States,Texas,No,10/7/98,0,0,0,0,0,0,2,0,0,0,0,0,White
+yes,3,no,Jeremy,Sagastegui,,,White,Male,West,United States,Washington,No,10/13/98,0,0,1,0,0,0,2,0,0,0,0,0,Multiple (including White)
+no,1,yes,Dwayne,Wright,Allen,,Black,Male,South,United States,Virginia,No,10/14/98,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,2,no,Ronald,Fitzgerald,Lee,,Black,Male,South,United States,Virginia,No,10/21/98,0,2,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Tyrone,Gilliam,D.,,Black,Male,South,United States,Maryland,No,11/16/98,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Kenneth,McDuff,,,White,Male,South,United States,Texas,No,11/17/98,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Kenneth,Wilson,,,Black,Male,South,United States,Virginia,No,11/17/98,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,2,no,John,Noland,Thomas,,White,Male,South,United States,North Carolina,No,11/20/98,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Kevin,Cardwell,Wayne,,Black,Male,South,United States,Virginia,No,12/3/98,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Larry,Gilbert,,,Black,Male,South,United States,South Carolina,No,12/4/98,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,J.D.,Gleaton,,,Black,Male,South,United States,South Carolina,No,12/4/98,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,3,no,Daniel,Corwin,Lee,,White,Male,South,United States,Texas,No,12/7/98,0,0,0,0,0,0,3,0,0,0,0,0,White
+no,1,no,Jeff,Emery,,,White,Male,South,United States,Texas,No,12/8/98,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,Tuan,Nguyen,,,Asian,Male,South,United States,Oklahoma,Yes,12/10/98,1,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Louis,Truesdale,,,Black,Male,South,United States,South Carolina,No,12/11/98,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,James,Meanes,Ronald,,Black,Male,South,United States,Texas,No,12/15/98,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,John,Duvall,Wayne,,White,Male,South,United States,Oklahoma,No,12/17/98,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Andy,Smith,,,Black,Male,South,United States,South Carolina,No,12/18/98,0,1,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,John,Moody,Glenn,,White,Male,South,United States,Texas,No,1/5/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,John,Castro,Walter,,American Indian or Alaska Native,Male,South,United States,Oklahoma,No,1/7/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Ronnie,Howard,,,Black,Male,South,United States,South Carolina,No,1/8/99,0,0,0,1,0,0,0,0,0,0,0,0,Asian
+no,1,no,Dobie,Williams,Gillis,,Black,Male,South,United States,Louisiana,No,1/8/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Kelvin,Malone,,,Black,Male,Midwest,United States,Missouri,No,1/13/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Jess,Gillies,James,,White,Male,West,United States,Arizona,No,1/13/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Troy,Farris,,,White,Male,South,United States,Texas,No,1/13/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Mark,Sheppard,Arlo,,Black,Male,South,United States,Virginia,No,1/20/99,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Joseph,Atkins,Ernest,,American Indian or Alaska Native,Male,South,United States,South Carolina,No,1/22/99,0,1,0,0,0,0,1,0,0,0,0,0,Multiple (including White)
+no,1,no,Martin,Vega,,,Latinx,Male,South,United States,Texas,No,1/26/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Darrick,Gerlaugh,,,American Indian or Alaska Native,Male,West,United States,Arizona,No,2/3/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,3,yes,Sean,Sellers,,,White,Male,South,United States,Oklahoma,No,2/4/99,2,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Tony,Fry,Leslie,,White,Male,South,United States,Virginia,No,2/4/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Jaturun,Siripongs,,,Asian,Male,West,United States,California,Yes,2/9/99,0,0,0,1,0,0,0,0,0,1,0,0,Asian
+no,1,no,George,Cordova,,,Latinx,Male,South,United States,Texas,No,2/10/99,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Danny,Barber,Lee,,White,Male,South,United States,Texas,No,2/11/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,Andrew,Cantu,,,Latinx,Male,South,United States,Texas,No,2/16/99,2,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,Johnie,Cox,Michael,,White,Male,South,United States,Arkansas,No,2/16/99,1,0,0,0,0,0,2,0,0,0,0,0,White
+yes,1,no,Wilford,Berry,,,White,Male,Midwest,United States,Ohio,No,2/19/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,James,Rodden,,,White,Male,Midwest,United States,Missouri,No,2/24/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Norman,Green,,,Black,Male,South,United States,Texas,No,2/24/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Karl,LaGrand,,,White,Male,West,United States,Arizona,Yes,2/24/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Walter,LaGrand,,,White,Male,West,United States,Arizona,Yes,3/3/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,George,Quesinberry,A.,Jr.,White,Male,South,United States,Virginia,No,3/9/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Roy,Roberts,Michael,,White,Male,Midwest,United States,Missouri,No,3/10/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Andrew,Kokoraleis,,,White,Male,Midwest,United States,Illinois,No,3/17/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,David,Fisher,Lee,,White,Male,South,United States,Virginia,No,3/25/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Charles,Rector,,,Black,Male,South,United States,Texas,No,3/26/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,James,Rich,,,White,Male,South,United States,North Carolina,No,3/26/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Robert,White,Excell,,White,Male,South,United States,Texas,No,3/30/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,2,no,Alvaro,Calambro,,,Asian,Male,West,United States,Nevada,Yes,4/5/99,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Marion,Pruett,Albert,,White,Male,South,United States,Arkansas,No,4/12/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Carl,Chichester,Hamilton,,Black,Male,South,United States,Virginia,No,4/13/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Roy,Ramsey,,Jr.,Black,Male,Midwest,United States,Missouri,No,4/14/99,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Arthur,Jenkins,Ray,III,White,Male,South,United States,Virginia,No,4/20/99,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,4,no,David,Lawrie,J.,,White,Male,South,United States,Delaware,No,4/23/99,4,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Ralph,Davis,E.,,Black,Male,Midwest,United States,Missouri,No,4/28/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,Aaron,Foust,,,White,Male,South,United States,Texas,No,4/28/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,2,no,Eric,Payne,Christopher,,White,Male,South,United States,Virginia,No,4/28/99,0,0,0,0,0,0,1,1,0,0,0,0,Multiple (including White)
+no,1,no,Ronald,Yeatts,Dale,,White,Male,South,United States,Virginia,No,4/29/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Manuel,Babbitt,,,Black,Male,West,United States,California,No,5/4/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Jose,De La Cruz,,,Latinx,Male,South,United States,Texas,No,5/4/99,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Robert,Vickers,Wayne,,White,Male,West,United States,Arizona,No,5/5/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Clydell,Coleman,,,Black,Male,South,United States,Texas,No,5/5/99,0,0,0,0,0,0,0,1,0,0,0,0,Black
+yes,2,no,Edward,Harper,Lee,,White,Male,South,United States,Kentucky,No,5/25/99,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Jessie,Wise,,,Black,Male,Midwest,United States,Missouri,No,5/26/99,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,William,Little,Hamilton,,White,Male,South,United States,Texas,No,6/1/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Scotty,Moore,Lee,,White,Male,South,United States,Oklahoma,No,6/3/99,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Bruce,Kilgore,,,Black,Male,Midwest,United States,Missouri,No,6/16/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Michael,Poland,,,White,Male,West,United States,Arizona,No,6/16/99,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Stanley,Faulder,,,White,Male,South,United States,Texas,Yes,6/17/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Brian,Baldwin,,,Black,Male,South,United States,Alabama,No,6/18/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Robert,Walls,,,White,Male,Midwest,United States,Missouri,No,6/30/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,no,Charles,Tuttle,,,White,Male,South,United States,Texas,No,7/1/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,2,no,Gary,Heidnik,,,White,Male,Northeast,United States,Pennsylvania,No,7/6/99,0,0,0,0,0,0,0,2,0,0,0,0,Black
+no,1,no,Tyrone,Fuller,,,Black,Male,South,United States,Texas,No,7/7/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Norman,Newsted,Lee,,White,Male,South,United States,Oklahoma,No,7/8/99,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,3,no,Allen,Davis,Lee,,White,Male,South,United States,Florida,No,7/8/99,0,0,0,0,0,0,3,0,0,0,0,0,White
+no,1,no,Thomas,Strickler,,,White,Male,South,United States,Virginia,No,7/21/99,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Ricky,Blackmon,,,White,Male,South,United States,Texas,No,8/4/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Charles,Boyd,,,Black,Male,South,United States,Texas,No,8/5/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Victor,Kennedy,,,Black,Male,South,United States,Alabama,No,8/6/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Kenneth,Dunn,Dwayne,,Black,Male,South,United States,Texas,No,8/10/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,James,Earhart,Otto,,White,Male,South,United States,Texas,No,8/11/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Marlon,Williams,,,Black,Male,South,United States,Virginia,No,8/17/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Joseph,Trevino,,,Latinx,Male,South,United States,Texas,No,8/18/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,David,Leisure,,,White,Male,Midwest,United States,Missouri,No,9/1/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Raymond,Jones,,,Black,Male,South,United States,Texas,No,9/1/99,0,0,0,1,0,0,0,0,0,0,0,0,Asian
+no,3,no,Mark,Gardner,,,White,Male,South,United States,Arkansas,No,9/8/99,1,0,0,0,0,0,2,0,0,0,0,0,White
+yes,2,no,Alan,Willett,,,White,Male,South,United States,Arkansas,No,9/8/99,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Willis,Barnes,,,Black,Male,South,United States,Texas,No,9/10/99,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,William,Davis,,,Black,Male,South,United States,Texas,No,9/14/99,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Everett,Mueller,Lee,,White,Male,South,United States,Virginia,No,9/16/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,Richard,Smith,Wayne,,White,Male,South,United States,Texas,No,9/21/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Willie,Sullivan,,,Black,Male,South,United States,Delaware,No,9/24/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Harvey,Green,Lee,,Black,Male,South,United States,North Carolina,No,9/24/99,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Alvin,Crane,,,White,Male,South,United States,Texas,No,10/12/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Jerry,McFadden,,,White,Male,South,United States,Texas,No,10/14/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,Joseph,Parsons,,,White,Male,West,United States,Utah,No,10/15/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Jason,Joseph,,,Black,Male,South,United States,Virginia,No,10/19/99,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Arthur,Boyd,,,White,Male,South,United States,North Carolina,No,10/21/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Ignacio,Ortiz,,,Latinx,Male,West,United States,Arizona,No,10/27/99,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,Domingo,Cantu,,,American Indian or Alaska Native,Male,South,United States,Texas,No,10/28/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Thomas,Royal,Lee,Jr.,Black,Male,South,United States,Virginia,No,11/9/99,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Leroy,Drayton,Joseph,,Black,Male,South,United States,South Carolina,No,11/12/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Desmond,Jennings,,,Black,Male,South,United States,Texas,No,11/16/99,0,1,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,John,Lamb,Michael,,White,Male,South,United States,Texas,No,11/17/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Jose,Gutierrez,,,Latinx,Male,South,United States,Texas,No,11/18/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,David,Brown,Junior,,Black,Male,South,United States,North Carolina,No,11/19/99,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Cornel,Cooks,,,Black,Male,South,United States,Oklahoma,No,12/2/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,David,Rocheville,,,White,Male,South,United States,South Carolina,No,12/3/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,3,no,David,Long,Martin,,White,Male,South,United States,Texas,No,12/8/99,0,0,0,0,0,0,3,0,0,0,0,0,White
+no,1,no,Bobby,Ross,Lynn,,Black,Male,South,United States,Oklahoma,No,12/9/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,D.H.,Fleenor,,,White,Male,Midwest,United States,Indiana,No,12/9/99,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,James,Beathard,,,White,Male,South,United States,Texas,No,12/9/99,0,0,0,0,0,0,3,0,0,0,0,0,White
+no,1,no,Andre,Graham,,,Black,Male,South,United States,Virginia,No,12/9/99,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,Robert,Atworth,,,White,Male,South,United States,Texas,No,12/14/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Sammie,Felder,,,Black,Male,South,United States,Texas,No,12/15/99,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Malcolm,Johnson,,,Black,Male,South,United States,Oklahoma,No,1/6/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,David,Duren,,,White,Male,South,United States,Alabama,No,1/7/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,yes,Douglas,Thomas,Christopher,,White,Male,South,United States,Virginia,No,1/10/00,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Earl,Heiselbetz,Carl,Jr.,White,Male,South,United States,Texas,No,1/12/00,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Gary,Walker,Alan,,White,Male,South,United States,Oklahoma,No,1/13/00,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,yes,Steven,Roach,,,White,Male,South,United States,Virginia,No,1/13/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Spencer,Goodman,,,White,Male,South,United States,Texas,No,1/18/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,David,Hicks,,,Black,Male,South,United States,Texas,No,1/20/00,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,5,no,Larry,Robison,,,White,Male,South,United States,Texas,No,1/21/00,3,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Billy,Hughes,,,White,Male,South,United States,Texas,No,1/24/00,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,yes,Glen,McGinnis,,,Black,Male,South,United States,Texas,No,1/25/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,James,Moreland,,,White,Male,South,United States,Texas,No,1/27/00,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Michael,Roberts,,,Black,Male,South,United States,Oklahoma,No,2/10/00,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Anthony,Chaney,Lee,,White,Male,West,United States,Arizona,No,2/16/00,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Terry,Sims,,,White,Male,South,United States,Florida,No,2/23/00,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Cornelius,Goss,,,Black,Male,South,United States,Texas,No,2/23/00,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Anthony,Bryan,,,White,Male,South,United States,Florida,No,2/24/00,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Betty,Beets,Lou,,White,Female,South,United States,Texas,No,2/24/00,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Odell,Barnes,,,Black,Male,South,United States,Texas,No,3/1/00,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,2,no,Freddie,Wright,Lee,,Black,Male,South,United States,Alabama,No,3/3/00,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Ponchai,Wilkerson,,,Black,Male,South,United States,Texas,No,3/14/00,0,0,0,1,0,0,0,0,0,0,0,0,Asian
+no,3,no,Darrell,Rich,,,American Indian or Alaska Native,Male,West,United States,California,No,3/15/00,0,0,0,0,0,0,3,0,0,0,0,0,White
+no,2,no,Patrick,Poland,,,White,Male,West,United States,Arizona,No,3/15/00,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Timothy,Gribble,,,White,Male,South,United States,Texas,No,3/15/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Lonnie,Weeks,,Jr.,Black,Male,South,United States,Virginia,No,3/16/00,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+yes,1,no,James,Hampton,,,White,Male,Midwest,United States,Missouri,No,3/22/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Kelly,Rogers,Lamont,,Black,Male,South,United States,Oklahoma,No,3/23/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Robert,Tarver,,,Black,Male,South,United States,Alabama,No,4/14/00,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Robert,Coe,Glen,,White,Male,South,United States,Tennessee,No,4/19/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Ronald,Boyd,Keith,,Black,Male,South,United States,Oklahoma,No,4/27/00,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,2,no,Christina,Riggs,,,White,Female,South,United States,Arkansas,No,5/2/00,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Tommy,Jackson,,,Black,Male,South,United States,Texas,No,5/4/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,William,Kitchens,,,White,Male,South,United States,Texas,No,5/9/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Michael,McBride,,,White,Male,South,United States,Texas,No,5/11/00,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,James,Richardson,,,Black,Male,South,United States,Texas,No,5/23/00,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Richard,Foster,,,White,Male,South,United States,Texas,No,5/24/00,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Charles,Foster,,,Black,Male,South,United States,Oklahoma,No,5/25/00,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,James,Clayton,,,Black,Male,South,United States,Texas,No,5/25/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,6,no,Robert,Carter,,,Black,Male,South,United States,Texas,No,5/31/00,0,1,0,0,0,0,0,5,0,0,0,0,Black
+no,1,no,James,Robedeaux,,,American Indian or Alaska Native,Male,South,United States,Oklahoma,No,6/1/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,2,no,Pernell,Ford,,,Black,Male,South,United States,Alabama,No,6/2/00,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Feltus,Taylor,,,Black,Male,South,United States,Louisiana,No,6/6/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Bennie,Demps,,,Black,Male,South,United States,Florida,No,6/7/00,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Roger,Berget,,,White,Male,South,United States,Oklahoma,No,6/8/00,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Wayne,Mason,,,White,Male,South,United States,Texas,No,6/12/00,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,John,Burks,,,Black,Male,South,United States,Texas,No,6/14/00,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,William,Bryson,,,Black,Male,South,United States,Oklahoma,No,6/15/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Paul,Nuncio,,,Latinx,Male,South,United States,Texas,No,6/15/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Thomas,Provenzano,,,White,Male,South,United States,Florida,No,6/21/00,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,yes,Shaka,Sankofa,,,Black,Male,South,United States,Texas,No,6/22/00,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Bert,Hunter,,,White,Male,Midwest,United States,Missouri,No,6/28/00,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Jessy,Miguel,San,,Latinx,Male,South,United States,Texas,No,6/29/00,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,4,no,Michael,Clagett,,,White,Male,South,United States,Virginia,No,7/6/00,1,0,0,2,0,0,1,0,0,0,0,0,Multiple (including White)
+no,2,no,Orien,Joiner,,,White,Male,South,United States,Texas,No,7/12/00,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Gregg,Braun,,,White,Male,South,United States,Oklahoma,No,7/20/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Juan,Soria,,,Latinx,Male,South,United States,Texas,No,7/26/00,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Brian,Roberson,,,Black,Male,South,United States,Texas,No,8/9/00,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Oliver,Cruz,,,Latinx,Male,South,United States,Texas,No,8/9/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,George,Wallace,,,White,Male,South,United States,Oklahoma,No,8/10/00,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,John,Satterwhite,,,Black,Male,South,United States,Texas,No,8/16/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Richard,Jones,Wayne,,White,Male,South,United States,Texas,No,8/22/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,David,Gibbs,Earl,,White,Male,South,United States,Texas,No,8/23/00,0,0,0,0,0,0,2,0,0,0,0,0,White
+yes,1,no,Dan,Hauser,,,White,Male,South,United States,Florida,No,8/25/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,Gary,Roll,Lee,,White,Male,Midwest,United States,Missouri,No,8/30/00,2,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,Jeffrey,Caldwell,,,Black,Male,South,United States,Texas,No,8/30/00,0,1,0,0,0,0,0,2,0,0,0,0,Black
+no,2,no,Russel,Burkett,,,White,Male,South,United States,Virginia,No,8/30/00,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,George,Harris,,,Black,Male,Midwest,United States,Missouri,No,9/13/00,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Derek,Barnabei,,,White,Male,South,United States,Virginia,No,9/14/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Ricky,McGinn,,,White,Male,South,United States,Texas,No,9/27/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Bobby,Ramdass,Lee,,Black,Male,South,United States,Virginia,No,10/10/00,0,0,0,0,0,1,0,0,0,0,0,0,Other Race
+no,1,no,Jeffrey,Dillingham,,,White,Male,South,United States,Texas,No,11/1/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Kevin,Young,,,Black,Male,South,United States,South Carolina,No,11/3/00,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Donald,Miller,,,White,Male,West,United States,Arizona,No,11/8/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Michael,Sexton,,,Black,Male,South,United States,North Carolina,No,11/9/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Miguel,Flores,,,Latinx,Male,South,United States,Texas,Yes,11/9/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Stacey,Lawton,,,Black,Male,South,United States,Texas,No,11/14/00,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,James,Chambers,,,White,Male,Midwest,United States,Missouri,No,11/15/00,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Tony,Chambers,,,Black,Male,South,United States,Texas,No,11/15/00,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,2,no,Dwayne,Weeks,L.,,Black,Male,South,United States,Delaware,No,11/17/00,0,1,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Garry,Miller,,,White,Male,South,United States,Texas,No,12/5/00,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Daniel,Hittle,,,White,Male,South,United States,Texas,No,12/6/00,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Christopher,Goins,,,Black,Male,South,United States,Virginia,No,12/6/00,0,0,0,0,0,0,0,1,0,0,0,0,Black
+yes,1,no,Edward,Castro,,,Latinx,Male,South,United States,Florida,No,12/7/00,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Claude,Jones,,,White,Male,South,United States,Texas,No,12/7/00,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,David,Johnson,,,Black,Male,South,United States,Arkansas,No,12/19/00,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Jack,Clark,,,White,Male,South,United States,Texas,No,1/9/01,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,Eddie,Trice,,,Black,Male,South,United States,Oklahoma,No,1/9/01,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Robert,Glock,,,White,Male,South,United States,Florida,No,1/11/01,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Wanda,Allen,Jean,,Black,Female,South,United States,Oklahoma,No,1/11/01,0,0,0,0,0,0,0,1,0,0,0,0,Black
+yes,1,no,Floyd,Medlock,,,White,Male,South,United States,Oklahoma,No,1/16/01,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Alvin,Goodwin,,,White,Male,South,United States,Texas,No,1/18/01,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Dion,Smallwood,,,American Indian or Alaska Native,Male,South,United States,Oklahoma,No,1/18/01,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,3,no,Mark,Fowler,,,White,Male,South,United States,Oklahoma,No,1/23/01,2,0,0,1,0,0,0,0,0,0,0,0,Multiple (including White)
+no,3,no,Billy,Fox,Ray,,White,Male,South,United States,Oklahoma,No,1/25/01,2,0,0,1,0,0,0,0,0,0,0,0,Multiple (including White)
+no,1,no,Caruthers,Alexander,,,Black,Male,South,United States,Texas,No,1/29/01,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Loyd,Lafevers,,,White,Male,South,United States,Oklahoma,No,1/30/01,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,D.L.,Jones,,Jr.,White,Male,South,United States,Oklahoma,No,2/1/01,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Stanley,Lingar,,,White,Male,Midwest,United States,Missouri,No,2/7/01,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Adolph,Hernandez,,,Latinx,Male,South,United States,Texas,No,2/8/01,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+yes,1,no,Thomas,Akers,,,White,Male,South,United States,Virginia,No,3/1/01,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Robert,Clayton,,,White,Male,South,United States,Oklahoma,No,3/1/01,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Dennis,Dowthitt,,,White,Male,South,United States,Texas,No,3/7/01,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Willie,Fisher,Ervin,,Black,Male,South,United States,North Carolina,No,3/9/01,0,0,0,0,0,0,0,1,0,0,0,0,Black
+yes,1,no,Gerald,Bivins,,,White,Male,Midwest,United States,Indiana,No,3/14/01,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,no,Robert,Massie,Lee,,White,Male,West,United States,California,No,3/27/01,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,3,no,Ronald,Fluke,Dunaway,,White,Male,South,United States,Oklahoma,No,3/27/01,0,0,0,0,0,0,3,0,0,0,0,0,White
+no,2,no,Thomas,Ervin,,,White,Male,Midwest,United States,Missouri,No,3/28/01,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Jason,Massey,,,White,Male,South,United States,Texas,No,4/3/01,1,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,Sebastian,Bridges,,,White,Male,West,United States,Nevada,Yes,4/21/01,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,3,no,Mose,Young,,,Black,Male,Midwest,United States,Missouri,No,4/25/01,3,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,David,Goff,,,Black,Male,South,United States,Texas,No,4/25/01,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,David,Dawson,,,White,Male,South,United States,Delaware,No,4/26/01,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Marilyn,Plantz,,,White,Female,South,United States,Oklahoma,No,5/1/01,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,5,no,Clay,Smith,King,,White,Male,South,United States,Arkansas,No,5/8/01,1,0,0,0,0,0,4,0,0,0,0,0,White
+no,1,no,Terrance,James,,,American Indian or Alaska Native,Male,South,United States,Oklahoma,No,5/22/01,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Samuel,Smith,,,Black,Male,Midwest,United States,Missouri,No,5/23/01,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Abdullah,Hameen,T.,,Black,Male,South,United States,Delaware,No,5/25/01,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Vincent,Johnson,,,Black,Male,South,United States,Oklahoma,No,5/29/01,0,0,0,0,0,0,0,1,0,0,0,0,Black
+yes,8,no,Timothy,McVeigh,James,,White,Male,South,United States,Federal,No,6/11/01,7,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,John,Wheat,,,White,Male,South,United States,Texas,No,6/13/01,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Jay,Scott,D.,,Black,Male,Midwest,United States,Ohio,No,6/14/01,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,3,no,Juan,Garza,Raul,,Latinx,Male,South,United States,Federal,No,6/19/01,0,0,3,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Miguel,Richardson,,,Black,Male,South,United States,Texas,No,6/26/01,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Jim,Lowery,,,White,Male,Midwest,United States,Indiana,No,6/27/01,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Jerome,Mallett,,,Black,Male,Midwest,United States,Missouri,No,7/11/01,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,James,Wilkens,,Jr.,White,Male,South,United States,Texas,No,7/11/01,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Jerald,Harjo,Wayne,,American Indian or Alaska Native,Male,South,United States,Oklahoma,No,7/17/01,0,0,0,0,0,0,0,0,0,0,1,0,American Indian or Alaska Native
+no,1,no,Mack,Hill,,,White,Male,South,United States,Texas,No,8/8/01,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Jeffrey,Doughtie,,,White,Male,South,United States,Texas,No,8/16/01,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Clifton,White,,,White,Male,South,United States,North Carolina,No,8/24/01,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,James,Elledge,,,White,Male,West,United States,Washington,No,8/28/01,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Jack,Walker,,,White,Male,South,United States,Oklahoma,No,8/28/01,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Ronald,Frye,,,White,Male,South,United States,North Carolina,No,8/31/01,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,James,Knox,,,White,Male,South,United States,Texas,No,9/18/01,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Michael,Roberts,,,White,Male,Midwest,United States,Missouri,No,10/3/01,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,David,Ward,Junior,,Black,Male,South,United States,North Carolina,No,10/12/01,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,3,no,Christopher,Beck,,,White,Male,South,United States,Virginia,No,10/18/01,2,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Alvie,Hale,James,,White,Male,South,United States,Oklahoma,No,10/18/01,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,yes,Gerald,Mitchell,,,Black,Male,South,United States,Texas,No,10/22/01,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Stephen,Johns,,,White,Male,Midwest,United States,Missouri,No,10/24/01,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Terry,Mincey,,,White,Male,South,United States,Georgia,No,10/25/01,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Jose,High,Martinez,,Black,Male,South,United States,Georgia,No,11/6/01,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,no,Terry,Clark,,,White,Male,West,United States,New Mexico,No,11/6/01,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Jeffrey,Tucker,,,White,Male,South,United States,Texas,No,11/14/01,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Fred,Gilreath,,,White,Male,South,United States,Georgia,No,11/15/01,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Emerson,Rudd,,,Black,Male,South,United States,Texas,No,11/15/01,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,John,Rose,Hardy,,White,Male,South,United States,North Carolina,No,11/30/01,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Lois,Smith,Nadean,,American Indian or Alaska Native,Female,South,United States,Oklahoma,No,12/4/01,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Sahib,Al-Mosawi,,,Other Race,Male,South,United States,Oklahoma,Yes,12/6/01,0,0,0,0,0,1,0,0,0,0,0,1,Other Race
+no,1,no,Byron,Parker,,,White,Male,South,United States,Georgia,No,12/11/01,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Vincent,Cooks,,,Black,Male,South,United States,Texas,No,12/12/01,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,4,no,James,Johnson,,,White,Male,Midwest,United States,Missouri,No,1/9/02,2,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Michael,Moore,,,White,Male,South,United States,Texas,No,1/9/02,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Jermarr,Arnold,,,Black,Male,South,United States,Texas,No,1/16/02,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,Ronald,Spivey,,,White,Male,South,United States,Georgia,No,1/24/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Stephen,Anderson,Wayne,,White,Male,West,United States,California,No,1/29/02,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,John,Romano,,,White,Male,South,United States,Oklahoma,No,1/29/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Windell,Broussard,,,Black,Male,South,United States,Texas,No,1/30/02,0,1,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Randall,Hafdahl,,,White,Male,South,United States,Texas,No,1/31/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,David,Woodruff,,,White,Male,South,United States,Oklahoma,No,1/31/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Michael,Owsley,,,Black,Male,Midwest,United States,Missouri,No,2/6/02,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,John,Byrd,,Jr.,White,Male,Midwest,United States,Ohio,No,2/19/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Monty,Delk,,,White,Male,South,United States,Texas,No,2/28/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Jeffrey,Tokar,,,White,Male,Midwest,United States,Missouri,No,3/6/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Gerald,Tigner,,,Black,Male,South,United States,Texas,No,3/7/02,0,2,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Tracy,Housel,,,White,Male,South,United States,Georgia,No,3/12/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,no,James,Patterson,Earl,,White,Male,South,United States,Virginia,No,3/14/02,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,2,no,Daniel,Zirkle,,,White,Male,South,United States,Virginia,No,4/2/02,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Paul,Kreutzer,,,White,Male,Midwest,United States,Missouri,No,4/10/02,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Jose,Santellan,,,Latinx,Male,South,United States,Texas,No,4/10/02,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,William,Burns,,,Black,Male,South,United States,Texas,No,4/11/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Gerald,Casey,,,White,Male,South,United States,Texas,No,4/18/02,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Alton,Coleman,,,Black,Male,Midwest,United States,Ohio,No,4/26/02,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Rodolfo,Hernandez,,,Latinx,Male,South,United States,Texas,No,4/30/02,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Richard,Johnson,Charles,,White,Male,South,United States,South Carolina,No,5/3/02,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Reginald,Reeves,,,Black,Male,South,United States,Texas,No,5/9/02,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,Lynda,Block,Lyon,,White,Female,South,United States,Alabama,No,5/10/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Leslie,Martin,,,White,Male,South,United States,Louisiana,No,5/10/02,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Ronford,Styron,,,White,Male,South,United States,Texas,No,5/16/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Johnny,Martinez,,,Latinx,Male,South,United States,Texas,No,5/22/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,yes,Napoleon,Beazley,,,Black,Male,South,United States,Texas,No,5/28/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Stanley,Baker,,,White,Male,South,United States,Texas,No,5/30/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Walter,Mickens,,,Black,Male,South,United States,Virginia,No,6/12/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Daniel,Reneau,,,White,Male,South,United States,Texas,No,6/13/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,5,no,Robert,Coulson,,,White,Male,South,United States,Texas,No,6/25/02,2,0,0,0,0,0,3,0,0,0,0,0,White
+no,1,no,Jeffrey,Williams,,,Black,Male,South,United States,Texas,No,6/26/02,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Tracy,Hansen,,,White,Male,South,United States,Mississippi,No,7/17/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Randall,Cannon,Eugene,,White,Male,South,United States,Oklahoma,No,7/23/02,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,Earl,Frederick,Alexander,Sr.,White,Male,South,United States,Oklahoma,No,7/30/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Richard,Kutzner,,,White,Male,South,United States,Texas,No,8/7/02,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,yes,T.J.,Jones,,,Black,Male,South,United States,Texas,No,8/8/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Javier,Medina,Suarez,,Latinx,Male,South,United States,Texas,Yes,8/14/02,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Daniel,Basile,,,White,Male,Midwest,United States,Missouri,No,8/14/02,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Wallace,Fugate,,,White,Male,South,United States,Georgia,No,8/16/02,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Gary,Etheridge,,,White,Male,South,United States,Texas,No,8/20/02,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Anthony,Green,,,Black,Male,South,United States,South Carolina,No,8/23/02,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,yes,Toronto,Patterson,,,Black,Male,South,United States,Texas,No,8/28/02,0,0,0,0,0,0,0,3,0,0,0,0,Black
+no,2,no,Tony,Walker,,,Black,Male,South,United States,Texas,No,9/10/02,0,1,0,0,0,0,0,1,0,0,0,0,Black
+yes,1,no,Michael,Passaro,,,White,Male,South,United States,South Carolina,No,9/13/02,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Jessie,Patrick,,,White,Male,South,United States,Texas,No,9/17/02,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Ronald,Shamburger,,,White,Male,South,United States,Texas,No,9/18/02,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Rex,Mays,,,White,Male,South,United States,Texas,No,9/24/02,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Robert,Buell,A.,,White,Male,Midwest,United States,Ohio,No,9/25/02,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Calvin,King,,,Black,Male,South,United States,Texas,No,9/25/02,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,James,Powell,,,White,Male,South,United States,Texas,No,10/1/02,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,Rigoberto,Sanchez-Velasco,,,Latinx,Male,South,United States,Florida,Yes,10/2/02,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+yes,1,no,Aileen,Wuornos,,,White,Female,South,United States,Florida,No,10/9/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,William,Putman,,,White,Male,South,United States,Georgia,No,11/13/02,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Mir,Kasi,Aimal,,Other Race,Male,South,United States,Virginia,Yes,11/14/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Craig,Ogan,,,White,Male,South,United States,Texas,No,11/19/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,William,Jones,,,White,Male,Midwest,United States,Missouri,No,11/20/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,William,Chappell,,,White,Male,South,United States,Texas,No,11/20/02,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,2,no,Leonard,Rojas,,,Latinx,Male,South,United States,Texas,No,12/4/02,0,0,1,0,0,0,1,0,0,0,0,0,Multiple (including White)
+no,1,no,Ernest,Basden,,,White,Male,South,United States,North Carolina,No,12/6/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Linroy,Bottoson,,,Black,Male,South,United States,Florida,No,12/9/02,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Desmond,Carter,,,Black,Male,South,United States,North Carolina,No,12/10/02,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,4,no,Jerry,McCracken,Lynn,,White,Male,South,United States,Oklahoma,No,12/10/02,3,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,James,Collier,,,White,Male,South,United States,Texas,No,12/11/02,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Jessie,Williams,,,White,Male,South,United States,Mississippi,No,12/11/02,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Anthony,Johnson,,,White,Male,South,United States,Alabama,No,12/12/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,4,no,Jay,Neill,,,White,Male,South,United States,Oklahoma,No,12/12/02,1,0,0,0,0,0,3,0,0,0,0,0,White
+no,1,no,Ernest,Carter,,,Black,Male,South,United States,Oklahoma,No,12/17/02,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,3,no,Samuel,Gallamore,,,White,Male,South,United States,Texas,No,1/14/03,1,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,John,Baltazar,,,Latinx,Male,South,United States,Texas,No,1/15/03,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,Daniel,Revilla,,,White,Male,South,United States,Oklahoma,No,1/16/03,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Robert,Lookingbill,,,White,Male,South,United States,Texas,No,1/22/03,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Alva,Curry,,,Black,Male,South,United States,Texas,No,1/28/03,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,2,no,Richard,Dinkins,,,White,Male,South,United States,Texas,No,1/29/03,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Granville,Riddle,,,White,Male,South,United States,Texas,No,1/30/03,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,John,Elliott,William,,Latinx,Male,South,United States,Texas,No,2/4/03,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,Kenneth,Kenley,,,White,Male,Midwest,United States,Missouri,No,2/5/03,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Henry,Dunn,,Jr.,Black,Male,South,United States,Texas,No,2/6/03,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Richard,Fox,,,White,Male,Midwest,United States,Ohio,No,2/12/03,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Bobby,Fields,Joe,,Black,Male,South,United States,Oklahoma,No,2/13/03,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Richard,Williams,,,Black,Male,South,United States,Texas,No,2/25/03,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Amos,King,,,Black,Male,South,United States,Florida,No,2/26/03,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Bobby,Cook,,,White,Male,South,United States,Texas,No,3/11/03,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Michael,Thompson,,,White,Male,South,United States,Alabama,No,3/13/03,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Louis,Jones,,Jr.,Black,Male,South,United States,Federal,No,3/18/03,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Walanzo,Robinson,,,Black,Male,South,United States,Oklahoma,No,3/18/03,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Keith,Clay,,,Black,Male,South,United States,Texas,No,3/20/03,0,0,0,0,0,1,0,0,0,0,0,0,Other Race
+no,2,no,John,Hooker,Michael,,Black,Male,South,United States,Oklahoma,No,3/25/03,0,0,0,0,0,0,0,2,0,0,0,0,Black
+no,1,no,Larry,Moon,,,White,Male,South,United States,Georgia,No,3/25/03,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,James,Colburn,,,White,Male,South,United States,Texas,No,3/26/03,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,yes,Scott,Hain,Allen,,White,Male,South,United States,Oklahoma,No,4/3/03,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Don,Hawkins,Wilson,,White,Male,South,United States,Oklahoma,No,4/8/03,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,4,no,Earl,Bramblett,C.,,White,Male,South,United States,Virginia,No,4/9/03,1,0,0,0,0,0,3,0,0,0,0,0,White
+no,1,no,Larry,Jackson,Kenneth,,Black,Male,South,United States,Oklahoma,No,4/17/03,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Juan,Chavez,,,Latinx,Male,South,United States,Texas,No,4/22/03,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Gary,Brown,,,White,Male,South,United States,Alabama,No,4/24/03,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,David,Brewer,,,White,Male,Midwest,United States,Ohio,No,4/29/03,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Kevin,Hough,,,White,Male,Midwest,United States,Indiana,No,5/2/03,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Roger,Vaughn,,,White,Male,South,United States,Texas,No,5/6/03,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,6,no,Carl,Isaacs,,,White,Male,South,United States,Georgia,No,5/6/03,5,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Bruce,Jacobs,,,White,Male,South,United States,Texas,No,5/15/03,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,4,no,Newton,Slawson,,,White,Male,South,United States,Florida,No,5/16/03,2,0,0,0,0,0,2,0,0,0,0,0,White
+no,2,no,Robert,Knighton,,,White,Male,South,United States,Oklahoma,No,5/27/03,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Kenneth,Charm,,,Black,Male,South,United States,Oklahoma,No,6/5/03,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Kia,Johnson,Levoy,,Black,Male,South,United States,Texas,No,6/11/03,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,3,no,Joseph,Trueblood,,,White,Male,Midwest,United States,Indiana,No,6/13/03,1,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Ernest,Martin,,,Black,Male,Midwest,United States,Ohio,No,6/18/03,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Lewis,Gilbert,Eugene,,White,Male,South,United States,Oklahoma,No,7/1/03,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Hilton,Crawford,,,White,Male,South,United States,Texas,No,7/2/03,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Robert,Duckett,Don,,White,Male,South,United States,Oklahoma,No,7/8/03,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Christopher,Black,,,Black,Male,South,United States,Texas,No,7/9/03,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,3,no,Riley,Noel,Dobi,,Black,Male,South,United States,Arkansas,No,7/9/03,0,3,0,0,0,0,0,0,0,0,0,0,Black
+no,2,no,Bryan,Toles,,,Black,Male,South,United States,Oklahoma,No,7/22/03,0,2,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Bobby,Swisher,Wayne,,White,Male,South,United States,Virginia,No,7/22/03,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Cedric,Ransom,,,Black,Male,South,United States,Texas,No,7/23/03,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Jackie,Willingham,Lee,,White,Male,South,United States,Oklahoma,No,7/24/03,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Allen,Janecka,Wayne,,White,Male,South,United States,Texas,No,7/24/03,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Harold,McElmurry,,,White,Male,South,United States,Oklahoma,No,7/29/03,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,4,no,Tommy,Fortenberry,,,White,Male,South,United States,Alabama,No,8/7/03,3,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,William,Jones,Quentin,,Black,Male,South,United States,North Carolina,No,8/22/03,0,1,0,0,0,0,0,0,0,0,0,0,Black
+yes,2,no,Paul,Hill,,,White,Male,South,United States,Florida,No,9/3/03,2,0,0,0,0,0,0,0,0,0,0,0,White
+yes,2,no,Larry,Hayes,,,White,Male,South,United States,Texas,No,9/10/03,0,0,0,0,0,0,1,1,0,0,0,0,Multiple (including White)
+no,2,no,Henry,Hunt,Lee,,American Indian or Alaska Native,Male,South,United States,North Carolina,No,9/12/03,0,0,0,0,2,0,0,0,0,0,0,0,American Indian or Alaska Native
+no,1,no,Joseph,Bates,Earl,,White,Male,South,United States,North Carolina,No,9/26/03,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Edward,Hartman,,,White,Male,South,United States,North Carolina,No,10/3/03,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,2,no,John,Smith,Clayton,,White,Male,Midwest,United States,Missouri,No,10/29/03,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,James,Brown,Willlie,,White,Male,South,United States,Georgia,No,11/4/03,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Joseph,Keel,Timothy,,White,Male,South,United States,North Carolina,No,11/7/03,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,John,Daniels,Dennis,,Black,Male,South,United States,North Carolina,No,11/14/03,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,2,no,Robert,Henry,,,White,Male,South,United States,Texas,No,11/20/03,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,2,no,Richard,Duncan,,,White,Male,South,United States,Texas,No,12/3/03,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Ivan,Murphy,,Jr.,White,Male,South,United States,Texas,No,12/4/03,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Robbie,Lyons,James,,Black,Male,South,United States,North Carolina,No,12/5/03,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,no,Ynobe,Matthews,,,Black,Male,South,United States,Texas,No,1/6/04,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Charles,Singleton,,,Black,Male,South,United States,Arkansas,No,1/6/04,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Raymond,Rowsey,Dayle,,White,Male,South,United States,North Carolina,No,1/9/04,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Tyrone,Darks,Peter,,Black,Male,South,United States,Oklahoma,No,1/13/04,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Lewis,Williams,,,Black,Male,Midwest,United States,Ohio,No,1/14/04,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Kenneth,Bruce,Eugene,,Black,Male,South,United States,Texas,No,1/14/04,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Kevin,Zimmerman,,,White,Male,South,United States,Texas,No,1/21/04,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Billy,Vickers,,,White,Male,South,United States,Texas,No,1/28/04,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,John,Roe,Glenn,,White,Male,Midwest,United States,Ohio,No,2/3/04,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Johnny,Robinson,L.,,Black,Male,South,United States,Florida,No,2/4/04,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,Edward,Lagrone,,,Black,Male,South,United States,Texas,No,2/11/04,0,0,0,0,0,0,0,3,0,0,0,0,Black
+no,2,no,Bobby,Hopkins,Ray,,Black,Male,South,United States,Texas,No,2/12/04,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Norman,Cleary,R.,,White,Male,South,United States,Oklahoma,No,2/17/04,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,Cameron,Willingham,,,White,Male,South,United States,Texas,No,2/17/04,0,0,0,0,0,0,3,0,0,0,0,0,White
+no,1,no,Marcus,Cotton,,,Black,Male,South,United States,Texas,No,3/3/04,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,David,Brown,Jay,,White,Male,South,United States,Oklahoma,No,3/9/04,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Brian,Cherrix,Lee,,White,Male,South,United States,Virginia,No,3/18/04,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,David,Hill,Clayton,,White,Male,South,United States,South Carolina,No,3/19/04,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Hung,Le,Thanh,,Asian,Male,South,United States,Oklahoma,Yes,3/23/04,0,0,0,1,0,0,0,0,0,0,0,0,Asian
+yes,1,no,Lawrence,Colwell,,Jr.,White,Male,West,United States,Nevada,No,3/26/04,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,William,Wickline,,,White,Male,Midwest,United States,Ohio,No,3/30/04,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Dennis,Orbe,,,White,Male,South,United States,Virginia,No,3/31/04,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Jerry,McWee,,,White,Male,South,United States,South Carolina,No,4/16/04,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Jason,Byram,,,White,Male,South,United States,South Carolina,No,4/23/04,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Kelsey,Patterson,,,Black,Male,South,United States,Texas,No,5/18/04,1,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,John,Blackwelder,,,White,Male,South,United States,Florida,No,5/26/04,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,James,Tucker,Neil,,White,Male,South,United States,South Carolina,No,5/28/04,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,William,Zuern,,,White,Male,Midwest,United States,Ohio,No,6/8/04,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Robert,Bryan,,,White,Male,South,United States,Oklahoma,No,6/8/04,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Steven,Oken,,,White,Male,South,United States,Maryland,No,6/17/04,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,David,Harris,Ray,,White,Male,South,United States,Texas,No,6/30/04,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Robert,Hicks,Karl,,White,Male,South,United States,Georgia,No,7/1/04,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,2,no,Stephen,Vrabel,,,White,Male,Midwest,United States,Ohio,No,7/14/04,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Eddie,Crawford,Albert,,White,Male,South,United States,Georgia,No,7/19/04,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,2,no,Scott,Mink,,,White,Male,Midwest,United States,Ohio,No,7/20/04,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Mark,Bailey,,,White,Male,South,United States,Virginia,No,7/22/04,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,James,Hubbard,,,White,Male,South,United States,Alabama,No,8/5/04,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,Terry,Dennis,Jess,,White,Male,West,United States,Nevada,No,8/12/04,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,3,no,James,Hudson,,,White,Male,South,United States,Virginia,No,8/18/04,2,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Jasen,Busby,Shane,,White,Male,South,United States,Texas,No,8/25/04,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Windel,Workman,Ray,,White,Male,South,United States,Oklahoma,No,8/26/04,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,James,Allridge,,,Black,Male,South,United States,Texas,No,8/26/04,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,James,Reid,,,Black,Male,South,United States,Virginia,No,9/9/04,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Andrew,Flores,,,Latinx,Male,South,United States,Texas,No,9/21/04,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+yes,1,no,David,Hocker,Kevin,,White,Male,South,United States,Alabama,No,9/30/04,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Edward,Green,,III,Black,Male,South,United States,Texas,No,10/5/04,0,1,0,0,0,0,0,1,0,0,0,0,Black
+yes,1,no,Peter,Miniel,,,Latinx,Male,South,United States,Texas,No,10/6/04,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Sammy,Perkins,,,Black,Male,South,United States,North Carolina,No,10/8/04,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Donald,Aldrich,,,White,Male,South,United States,Texas,No,10/12/04,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Adremy,Dennis,,,Black,Male,Midwest,United States,Ohio,No,10/13/04,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Ricky,Morrow,,,White,Male,South,United States,Texas,No,10/20/04,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,2,no,Charles,Roache,,,White,Male,South,United States,North Carolina,No,10/22/04,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Dominique,Green,,,Black,Male,South,United States,Texas,No,10/26/04,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Lorenzo,Morris,,,Black,Male,South,United States,Texas,No,11/2/04,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Robert,Morrow,,,White,Male,South,United States,Texas,No,11/4/04,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Demarco,McCullum,,,Black,Male,South,United States,Texas,No,11/9/04,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Frederick,McWilliams,,,Black,Male,South,United States,Texas,No,11/10/04,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Frank,Chandler,,,White,Male,South,United States,North Carolina,No,11/12/04,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Anthony,Fuentes,,,Latinx,Male,South,United States,Texas,No,11/17/04,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,no,James,Porter,,,White,Male,South,United States,Texas,No,1/4/05,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,2,no,Donald,Beardslee,,,White,Male,West,United States,California,No,1/19/05,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Troy,Kunkle,,,White,Male,South,United States,Texas,No,1/25/05,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Timothy,Carr,,,White,Male,South,United States,Georgia,No,1/25/05,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,4,no,Dennis,Bagwell,,,White,Male,South,United States,Texas,No,2/17/05,0,0,0,0,0,0,4,0,0,0,0,0,White
+no,1,no,Stephen,Mobley,,,White,Male,South,United States,Georgia,No,3/1/05,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,William,Smith,H.,,Black,Male,Midwest,United States,Ohio,No,3/8/05,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,George,Hopper,,,White,Male,South,United States,Texas,No,3/8/05,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,4,no,Donald,Wallace,,,White,Male,Midwest,United States,Indiana,No,3/10/05,2,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,William,Powell,,,White,Male,South,United States,North Carolina,No,3/11/05,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Jimmy,Slaughter,Ray,,White,Male,South,United States,Oklahoma,No,3/15/05,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Stanley,Hall,,,Black,Male,Midwest,United States,Missouri,No,3/16/05,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,Glen,Ocha,,,White,Male,South,United States,Florida,No,4/5/05,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Richard,Longworth,,,White,Male,South,United States,South Carolina,No,4/15/05,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Douglas,Roberts,,,White,Male,South,United States,Texas,No,4/20/05,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Bill,Benefiel,J.,Jr.,White,Male,Midwest,United States,Indiana,No,4/21/05,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Donald,Jones,,,Black,Male,Midwest,United States,Missouri,No,4/27/05,0,0,0,0,0,0,0,1,0,0,0,0,Black
+yes,1,no,Mario,Centobie,,,White,Male,South,United States,Alabama,No,4/28/05,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Lonnie,Pursley,Wayne,,White,Male,South,United States,Texas,No,5/3/05,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,3,no,Earl,Richmond,J.,Jr.,Black,Male,South,United States,North Carolina,No,5/6/05,0,1,0,0,0,0,0,2,0,0,0,0,Black
+no,1,no,George,Miller,James,Jr.,Black,Male,South,United States,Oklahoma,No,5/12/05,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,4,no,Michael,Ross,,,White,Male,Northeast,United States,Connecticut,No,5/13/05,0,0,0,0,0,0,4,0,0,0,0,0,White
+no,1,no,Vernon,Brown,,,Black,Male,Midwest,United States,Missouri,No,5/18/05,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Bryan,Wolfe,,,Black,Male,South,United States,Texas,No,5/18/05,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Richard,Cartwright,,,White,Male,South,United States,Texas,No,5/19/05,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Gregory,Johnson,Scott,,White,Male,Midwest,United States,Indiana,No,5/25/05,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Jerry,Henderson,Paul,,White,Male,South,United States,Alabama,No,6/2/05,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,no,Alexander,Martinez,,,Latinx,Male,South,United States,Texas,No,6/7/05,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Robert,Conklin,Dale,,White,Male,South,United States,Georgia,No,7/12/05,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Michael,Pennington,L.,,Black,Male,South,United States,Oklahoma,No,7/19/05,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,3,no,Kevin,Conner,,,White,Male,Midwest,United States,Indiana,No,7/27/05,3,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,David,Martinez,,,Latinx,Male,South,United States,Texas,No,7/28/05,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,George,Sibley,,,White,Male,South,United States,Alabama,No,8/4/05,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Gary,Sterling,,,Black,Male,South,United States,Texas,No,8/10/05,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Kenneth,Turrentine,Eugene,,Black,Male,South,United States,Oklahoma,No,8/11/05,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Robert,Shields,Alan,,White,Male,South,United States,Texas,No,8/23/05,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Timothy,Johnston,,,White,Male,Midwest,United States,Missouri,No,8/31/05,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,Frances,Newton,,,Black,Female,South,United States,Texas,No,9/14/05,0,2,0,0,0,0,0,1,0,0,0,0,Black
+no,3,no,John,Peoples,W.,Jr.,White,Male,South,United States,Alabama,No,9/22/05,2,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,Herman,Ashworth,Dale,,White,Male,Midwest,United States,Ohio,No,9/27/05,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Alan,Matheney,,,White,Male,Midwest,United States,Indiana,No,9/28/05,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Ronald,Howard,Ray,,Black,Male,South,United States,Texas,No,10/6/05,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Luis,Ramirez,,,Latinx,Male,South,United States,Texas,No,10/20/05,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,4,no,William,Williams,,Jr.,Black,Male,Midwest,United States,Ohio,No,10/25/05,3,0,0,0,0,0,0,1,0,0,0,0,Multiple (including White)
+no,1,no,Marlin,Gray,,,Black,Male,Midwest,United States,Missouri,No,10/26/05,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Melvin,White,,,White,Male,South,United States,Texas,No,11/3/05,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Brian,Steckel,,,White,Male,South,United States,Delaware,No,11/4/05,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,4,no,Arthur,Wise,Hastings,,Black,Male,South,United States,South Carolina,No,11/4/05,3,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Charles,Thacker,,,White,Male,South,United States,Texas,No,11/9/05,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Steven,Van McHone,,,White,Male,South,United States,North Carolina,No,11/11/05,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Robert,Rowell,,,White,Male,South,United States,Texas,No,11/15/05,1,0,1,0,0,0,0,0,0,0,0,0,Multiple (including White)
+no,3,no,Shannon,Thomas,,,Black,Male,South,United States,Texas,No,11/16/05,0,0,2,0,0,0,1,0,0,0,0,0,Multiple (including White)
+no,1,no,Elias,Syriani,Hanna,,Other Race,Male,South,United States,North Carolina,No,11/18/05,0,0,0,0,0,0,0,0,0,0,0,1,Other Race
+no,1,no,Eric,Nance,Randall,,White,Male,South,United States,Arkansas,No,11/28/05,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,John,Hicks,R.,,Black,Male,Midwest,United States,Ohio,No,11/29/05,0,0,0,0,0,0,0,2,0,0,0,0,Black
+no,2,no,Kenneth,Boyd,Lee,,White,Male,South,United States,North Carolina,No,12/2/05,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Shawn,Humphries,,,White,Male,South,United States,South Carolina,No,12/2/05,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Wesley,Baker,E.,,Black,Male,South,United States,Maryland,No,12/5/05,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,4,no,Stanley,Williams,,,Black,Male,West,United States,California,No,12/13/05,1,0,0,1,0,0,0,0,0,2,0,0,Multiple (including White)
+no,1,no,John,Nixon,,,White,Male,South,United States,Mississippi,No,12/14/05,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,Clarence,Allen,Ray,,American Indian or Alaska Native,Male,West,United States,California,No,1/17/06,2,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Perrie,Simpson,Dyon,,Black,Male,South,United States,North Carolina,No,1/20/06,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,3,no,Marion,Dudley,,,Black,Male,South,United States,Texas,No,1/25/06,0,0,2,0,0,0,0,0,1,0,0,0,Latinx
+no,2,no,Marvin,Bieghler,,,White,Male,Midwest,United States,Indiana,No,1/27/06,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Jaime,Elizalde,,,Latinx,Male,South,United States,Texas,No,1/31/06,0,0,2,0,0,0,0,0,0,0,0,0,Latinx
+no,2,no,Glenn,Benner,,,White,Male,Midwest,United States,Ohio,No,2/7/06,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Robert,Neville,,Jr.,White,Male,South,United States,Texas,No,2/8/06,0,0,0,0,1,0,0,0,0,0,0,0,American Indian or Alaska Native
+no,1,no,Clyde,Smith,,Jr.,Black,Male,South,United States,Texas,No,2/15/06,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Tommie,Hughes,,,Black,Male,South,United States,Texas,No,3/15/06,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Patrick,Moody,,,White,Male,South,United States,North Carolina,No,3/17/06,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Robert,Salazar,,Jr.,Latinx,Male,South,United States,Texas,No,3/22/06,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,Kevin,Kincy,,,Black,Male,South,United States,Texas,No,3/29/06,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,3,no,Richard,Thornburg,Alford,Jr.,White,Male,South,United States,Oklahoma,No,4/18/06,3,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Willie,Brown,,,Black,Male,South,United States,North Carolina,No,4/21/06,0,0,0,0,0,0,0,1,0,0,0,0,Black
+yes,1,no,Daryl,Mack,,,Black,Male,West,United States,Nevada,No,4/26/06,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Dexter,Vinson,,,Black,Male,South,United States,Virginia,No,4/27/06,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Joseph,Clark,,,Black,Male,Midwest,United States,Ohio,No,5/2/06,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Jackie,Wilson,,,Latinx,Male,South,United States,Texas,No,5/4/06,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Jermaine,Herron,,,Black,Male,South,United States,Texas,No,5/17/06,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Jesus,Aguilar,,,Latinx,Male,South,United States,Texas,No,5/24/06,0,0,1,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,John,Boltz,,,White,Male,South,United States,Oklahoma,No,6/1/06,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Timothy,Titsworth,,,White,Male,South,United States,Texas,No,6/6/06,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,Lamont,Reese,,,Black,Male,South,United States,Texas,No,6/20/06,0,3,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Angel,Resendiz,Maturino,,Latinx,Male,South,United States,Texas,Yes,6/27/06,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,Sedley,Alley,,,White,Male,South,United States,Tennessee,No,6/28/06,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Derrick,O'Brien,,,Black,Male,South,United States,Texas,No,7/11/06,0,0,0,0,0,0,2,0,0,0,0,0,White
+yes,1,no,Rocky,Barton,,,White,Male,Midwest,United States,Ohio,No,7/12/06,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,William,Downs,,,White,Male,South,United States,South Carolina,No,7/14/06,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Mauriceo,Brown,,,Black,Male,South,United States,Texas,No,7/19/06,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Robert,Anderson,,,White,Male,South,United States,Texas,No,7/20/06,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Brandon,Hedrick,,,White,Male,South,United States,Virginia,No,7/20/06,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Michael,Lenz,,,White,Male,South,United States,Virginia,No,7/27/06,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,William,Wyatt,,Jr.,Black,Male,South,United States,Texas,No,8/3/06,0,1,0,0,0,0,0,0,0,0,0,0,Black
+yes,3,no,Darrell,Ferguson,,,White,Male,Midwest,United States,Ohio,No,8/8/06,1,0,0,0,0,0,2,0,0,0,0,0,White
+yes,3,no,David,Dawson,,,White,Male,West,United States,Montana,No,8/11/06,2,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Richard,Hinojosa,,,Latinx,Male,South,United States,Texas,No,8/17/06,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Samuel,Flippen,,,White,Male,South,United States,North Carolina,No,8/18/06,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Justin,Fuller,Chaz,,Black,Male,South,United States,Texas,No,8/24/06,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Eric,Patton,Allen,,Black,Male,South,United States,Oklahoma,No,8/29/06,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,James,Malicoat,,,White,Male,South,United States,Oklahoma,No,8/31/06,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Derrick,Frazier,,,Black,Male,South,United States,Texas,No,8/31/06,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Farley,Matchett,,,Black,Male,South,United States,Texas,No,9/12/06,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Clarence,Hill,,,Black,Male,South,United States,Florida,No,9/20/06,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Arthur,Rutherford,,,White,Male,South,United States,Florida,No,10/18/06,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Bobby,Wilcher,Glen,,White,Male,South,United States,Mississippi,No,10/18/06,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,5,no,Jeffrey,Lundgren,,,White,Male,Midwest,United States,Ohio,No,10/24/06,1,0,0,0,0,0,4,0,0,0,0,0,White
+no,5,no,Danny,Rolling,,,White,Male,South,United States,Florida,No,10/25/06,0,0,1,0,0,0,4,0,0,0,0,0,Multiple (including White)
+no,3,no,Gregory,Summers,,,White,Male,South,United States,Texas,No,10/25/06,2,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Larry,Hutcherson,,,White,Male,South,United States,Alabama,No,10/26/06,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Donell,Jackson,,,Black,Male,South,United States,Texas,No,11/1/06,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Willie,Shannon,,,Black,Male,South,United States,Texas,No,11/8/06,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,John,Schmitt,,,White,Male,South,United States,Virginia,No,11/9/06,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Angel,Diaz,,,Latinx,Male,South,United States,Florida,No,12/13/06,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,4,no,Corey,Hamilton,,,Black,Male,South,United States,Oklahoma,No,1/9/07,3,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Carlos,Granados,,,Latinx,Male,South,United States,Texas,No,1/10/07,0,0,1,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,Jonathan,Moore,,,White,Male,South,United States,Texas,No,1/17/07,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+yes,2,no,Christopher,Swift,,,White,Male,South,United States,Texas,No,1/30/07,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,3,no,James,Jackson,,,Black,Male,South,United States,Texas,No,2/7/07,0,0,0,0,0,0,0,3,0,0,0,0,Black
+no,2,no,Newton,Anderson,Burton,,White,Male,South,United States,Texas,No,2/22/07,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Donald,Miller,,,White,Male,South,United States,Texas,No,2/27/07,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Robert,Perez,,,Latinx,Male,South,United States,Texas,No,3/6/07,0,0,2,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Joseph,Nichols,,,Black,Male,South,United States,Texas,No,3/7/07,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Charles,Nealy,,,Black,Male,South,United States,Texas,No,3/20/07,0,0,0,1,0,0,0,0,0,0,0,0,Asian
+no,1,no,Vincent,Gutierrez,,,Latinx,Male,South,United States,Texas,No,3/28/07,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,2,no,Roy,Pippin,Lee,,White,Male,South,United States,Texas,No,3/29/07,0,0,2,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,James,Clark,Lee,,White,Male,South,United States,Texas,No,4/11/07,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,James,Filiaggi,,,White,Male,Midwest,United States,Ohio,No,4/24/07,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Ryan,Dickson,,,White,Male,South,United States,Texas,No,4/26/07,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Aaron,Jones,Lee,,Black,Male,South,United States,Alabama,No,5/3/07,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,David,Woods,,,White,Male,Midwest,United States,Indiana,No,5/4/07,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Philip,Workman,,,White,Male,South,United States,Tennessee,No,5/9/07,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Charles,Smith,Edward,,White,Male,South,United States,Texas,No,5/16/07,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,no,Robert,Comer,Charles,,White,Male,West,United States,Arizona,No,5/22/07,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,no,Christopher,Newton,,,White,Male,Midwest,United States,Ohio,No,5/24/07,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Michael,Griffith,,,White,Male,South,United States,Texas,No,6/6/07,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Michael,Lambert,,,White,Male,Midwest,United States,Indiana,No,6/15/07,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Lionell,Rodriguez,,,Latinx,Male,South,United States,Texas,No,6/20/07,0,0,0,0,0,0,0,0,0,1,0,0,Asian
+no,1,no,Gilberto,Reyes,,,Latinx,Male,South,United States,Texas,No,6/21/07,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,Calvin,Shuler,,,Black,Male,South,United States,South Carolina,No,6/22/07,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Jimmy,Bland,Dale,,White,Male,South,United States,Oklahoma,No,6/26/07,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Patrick,Knight,,,White,Male,South,United States,Texas,No,6/26/07,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,John,Hightower,,,Black,Male,South,United States,Georgia,No,6/26/07,0,0,0,0,0,0,0,3,0,0,0,0,Black
+yes,1,no,Elijah,Page,,,White,Male,Midwest,United States,South Dakota,No,7/11/07,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Lonnie,Johnson,Earl,,Black,Male,South,United States,Texas,No,7/24/07,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Darrell,Grayson,,,Black,Male,South,United States,Alabama,No,7/26/07,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Kenneth,Parr,,,Black,Male,South,United States,Texas,No,8/15/07,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Frank,Welch,,,White,Male,South,United States,Oklahoma,No,8/21/07,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Johnny,Conner,Ray,,Black,Male,South,United States,Texas,No,8/22/07,0,0,0,0,0,0,0,0,0,1,0,0,Asian
+no,1,no,Luther,Williams,,,Black,Male,South,United States,Alabama,No,8/23/07,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,4,no,DaRoyce,Mosley,,,Black,Male,South,United States,Texas,No,8/28/07,3,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,John,Amador,Joe,,Latinx,Male,South,United States,Texas,No,8/29/07,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Tony,Roach,,,White,Male,South,United States,Texas,No,9/5/07,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,4,no,Daryl,Holton,,,White,Male,South,United States,Tennessee,No,9/12/07,3,0,0,0,0,0,0,1,0,0,0,0,Multiple (including White)
+no,3,no,Clifford,Kimmel,,,White,Male,South,United States,Texas,No,9/20/07,1,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Michael,Richard,,,Black,Male,South,United States,Texas,No,9/25/07,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,William,Lynd,Earl,,White,Male,South,United States,Georgia,No,5/6/08,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Earl,Berry,Wesley,,White,Male,South,United States,Mississippi,No,5/21/08,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Kevin,Green,,,Black,Male,South,United States,Virginia,No,5/27/08,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Curtis,Osborne,,,Black,Male,South,United States,Georgia,No,6/4/08,0,1,0,0,0,0,0,1,0,0,0,0,Black
+yes,3,no,David,Hill,Mark,,White,Male,South,United States,South Carolina,No,6/6/08,1,0,0,0,0,0,1,1,0,0,0,0,Multiple (including White)
+no,1,no,Karl,Chamberlain,,,White,Male,South,United States,Texas,No,6/11/08,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Terry,Short,Lyn,,White,Male,South,United States,Oklahoma,No,6/17/08,0,0,0,1,0,0,0,0,0,0,0,0,Asian
+no,2,no,James,Reed,Earl,,Black,Male,South,United States,South Carolina,No,6/20/08,0,1,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Robert,Yarbrough,,,Black,Male,South,United States,Virginia,No,6/25/08,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Mark,Schwab,Dean,,White,Male,South,United States,Florida,No,7/1/08,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,2,no,Carlton,Turner,Akee,,Black,Male,South,United States,Texas,No,7/10/08,0,1,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Kent,Jackson,Jermaine,,Black,Male,South,United States,Virginia,No,7/10/08,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Dale,Bishop,Leo,,White,Male,South,United States,Mississippi,No,7/23/08,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Derrick,Sonnier,,,Black,Male,South,United States,Texas,No,7/23/08,0,1,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Christopher,Emmett,Scott,,White,Male,South,United States,Virginia,No,7/24/08,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Larry,Davis,,,Black,Male,South,United States,Texas,No,7/31/08,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Jose,Medellin,,,Latinx,Male,South,United States,Texas,Yes,8/5/08,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Heliberto,Chi,,,Latinx,Male,South,United States,Texas,Yes,8/7/08,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Leon,Dorsey,,,Black,Male,South,United States,Texas,No,8/12/08,2,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,no,Michael,Rodriguez,,,Latinx,Male,South,United States,Texas,No,8/14/08,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Jack,Alderman,,,White,Male,South,United States,Georgia,No,9/16/08,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,William,Murray,,,White,Male,South,United States,Texas,No,9/17/08,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Richard,Henyard,,,Black,Male,South,United States,Florida,No,9/23/08,0,0,0,0,0,0,0,2,0,0,0,0,Black
+no,1,no,Jessie,Cummings,,,White,Male,South,United States,Oklahoma,No,9/25/08,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Richard,Cooey,,,White,Male,Midwest,United States,Ohio,No,10/14/08,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,3,no,Alvin,Kelly,,,White,Male,South,United States,Texas,No,10/14/08,2,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,Kevin,Watts,Michael,,Black,Male,South,United States,Texas,No,10/16/08,0,0,0,1,0,0,0,0,0,2,0,0,Asian
+no,1,no,Joseph,Ries,Ray,,White,Male,South,United States,Texas,No,10/21/08,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Eric,Nenno,,,White,Male,South,United States,Texas,No,10/28/08,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Gregory,Wright,,,White,Male,South,United States,Texas,No,10/30/08,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Elkie,Taylor,,,Black,Male,South,United States,Texas,No,11/6/08,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,George,Whitaker,,,Black,Male,South,United States,Texas,No,11/12/08,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Denard,Manns,,,Black,Male,South,United States,Texas,No,11/13/08,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Gregory,Bryant-Bey,,,Black,Male,Midwest,United States,Ohio,No,11/19/08,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Robert,Hudson,,,Black,Male,South,United States,Texas,No,11/20/08,0,0,0,0,0,0,0,1,0,0,0,0,Black
+yes,2,no,Marco,Chapman,Allen,,White,Male,South,United States,Kentucky,No,11/21/08,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Joseph,Gardner,,,Black,Male,South,United States,South Carolina,No,12/5/08,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,Curtis,Moore,,,Black,Male,South,United States,Texas,No,1/14/09,0,2,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,James,Callahan,,,White,Male,South,United States,Alabama,No,1/15/09,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Frank,Moore,,,Black,Male,South,United States,Texas,No,1/21/09,0,2,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Darwin,Brown,,,Black,Male,South,United States,Oklahoma,No,1/22/09,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Reginald,Perkins,,,Black,Male,South,United States,Texas,No,1/22/09,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,4,no,Virgil,Martinez,,,Latinx,Male,South,United States,Texas,No,1/28/09,0,0,2,0,0,0,0,0,2,0,0,0,Latinx
+no,1,no,Ricardo,Ortiz,,,Latinx,Male,South,United States,Texas,No,1/29/09,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,2,no,Steve,Henley,,,White,Male,South,United States,Tennessee,No,2/4/09,1,0,0,0,0,0,1,0,0,0,0,0,White
+yes,2,no,David,Martinez,,,Latinx,Male,South,United States,Texas,No,2/4/09,0,0,1,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,Dale,Scheanette,,,Black,Male,South,United States,Texas,No,2/10/09,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Wayne,Tompkins,,,White,Male,South,United States,Florida,No,2/11/09,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Danny,Bradley,Joe,,White,Male,South,United States,Alabama,No,2/12/09,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Johnny,Johnson,,,Black,Male,South,United States,Texas,No,2/12/09,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Edward,Bell,,,Black,Male,South,United States,Virginia,Yes,2/19/09,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Luke,Williams,,,White,Male,South,United States,South Carolina,No,2/20/09,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Willie,Pondexter,,,Black,Male,South,United States,Texas,No,3/3/09,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Kenneth,Morris,,,Black,Male,South,United States,Texas,No,3/4/09,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,James,Martinez,Edward,,Latinx,Male,South,United States,Texas,No,3/10/09,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Robert,Newland,,,White,Male,South,United States,Georgia,No,3/10/09,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Luis,Salazar,,,Latinx,Male,South,United States,Texas,No,3/11/09,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,Michael,Rosales,,,Latinx,Male,South,United States,Texas,No,4/15/09,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Jimmy,Dill,Lee,,Black,Male,South,United States,Alabama,No,4/16/09,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,William,Mize,Mark,,White,Male,South,United States,Georgia,No,4/29/09,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Derrick,Johnson,,,Black,Male,South,United States,Texas,No,4/30/09,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,2,no,Thomas,Ivey,,,Black,Male,South,United States,South Carolina,No,5/8/09,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Willie,McNair,,,Black,Male,South,United States,Alabama,No,5/14/09,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Donald,Gilson,,,White,Male,South,United States,Oklahoma,No,5/14/09,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Michael,Riley,Lynn,,Black,Male,South,United States,Texas,No,5/19/09,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Dennis,Skillicorn,,,White,Male,Midwest,United States,Missouri,No,5/20/09,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Terry,Hankins,,,White,Male,South,United States,Texas,No,6/2/09,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Daniel,Wilson,,,White,Male,Midwest,United States,Ohio,No,6/3/09,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,Jack,Trawick,,,White,Male,South,United States,Alabama,No,6/11/09,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Michael,DeLozier,,,White,Male,South,United States,Oklahoma,No,7/9/09,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,John,Fautenberry,,,White,Male,Midwest,United States,Ohio,No,7/14/09,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,5,no,Marvallous,Keene,,,Black,Male,Midwest,United States,Ohio,No,7/21/09,0,2,0,0,0,0,2,1,0,0,0,0,Multiple (including White)
+no,1,no,Jason,Getsy,,,White,Male,Midwest,United States,Ohio,No,8/18/09,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,John,Marek,Richard,,White,Male,South,United States,Florida,No,8/19/09,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Stephen,Moody,,,White,Male,South,United States,Texas,No,9/16/09,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,3,no,Christopher,Coleman,,,Black,Male,South,United States,Texas,No,9/22/09,0,0,3,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Max,Payne,,,White,Male,South,United States,Alabama,No,10/8/09,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Mark,McClain,,,White,Male,South,United States,Georgia,No,10/20/09,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Reginald,Blanton,,,Black,Male,South,United States,Texas,No,10/27/09,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Khristian,Oliver,,,Black,Male,South,United States,Texas,No,11/5/09,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Yosvanis,Valle,,,Latinx,Male,South,United States,Texas,Yes,11/10/09,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,John,Muhammad,Allen,,Black,Male,South,United States,Virginia,No,11/10/09,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Larry,Elliott,Bill,,White,Male,South,United States,Virginia,No,11/17/09,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Danielle,Simpson,,,Black,Male,South,United States,Texas,No,11/18/09,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Robert,Thompson,,,Black,Male,South,United States,Texas,No,11/19/09,0,0,0,0,0,1,0,0,0,0,0,0,Other Race
+no,3,no,Cecil,Johnson,,Jr.,Black,Male,South,United States,Tennessee,No,12/2/09,0,3,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Bobby,Woods,Wayne,,White,Male,South,United States,Texas,No,12/3/09,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Kenneth,Biros,,,White,Male,Midwest,United States,Ohio,No,12/8/09,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,Matthew,Wrinkles,Eric,,White,Male,Midwest,United States,Indiana,No,12/11/09,2,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Vernon,Smith,,,Black,Male,Midwest,United States,Ohio,No,1/7/10,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Kenneth,Mosley,,,Black,Male,South,United States,Texas,No,1/7/10,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,no,Gerald,Bordelon,,,White,Male,South,United States,Louisiana,No,1/7/10,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Gary,Johnson,,,White,Male,South,United States,Texas,No,1/12/10,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Julius,Young,Ricardo,,Black,Male,South,United States,Oklahoma,No,1/14/10,0,1,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Mark,Brown,,,Black,Male,Midwest,United States,Ohio,No,2/4/10,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Martin,Grossman,,,White,Male,South,United States,Florida,No,2/16/10,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Michael,Sigala,,,Latinx,Male,South,United States,Texas,No,3/2/10,0,0,1,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,Joshua,Maxwell,,,White,Male,South,United States,Texas,No,3/11/10,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Lawrence,Reynolds,,,White,Male,Midwest,United States,Ohio,No,3/16/10,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Paul,Powell,,,White,Male,South,United States,Virginia,No,3/18/10,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Franklin,Alix,,,Black,Male,South,United States,Texas,No,3/30/10,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Darryl,Durr,,,Black,Male,Midwest,United States,Ohio,No,4/20/10,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,William,Berkley,,,White,Male,South,United States,Texas,No,4/22/10,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,Samuel,Bustamante,,,Latinx,Male,South,United States,Texas,No,4/27/10,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Kevin,Varga,,,White,Male,South,United States,Texas,No,5/12/10,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Michael,Beuke,,,White,Male,Midwest,United States,Ohio,No,5/13/10,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Billy,Galloway,,,White,Male,South,United States,Texas,No,5/13/10,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Rogelio,Cannady,,,Latinx,Male,South,United States,Texas,No,5/19/10,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,Paul,Woodward,,,White,Male,South,United States,Mississippi,No,5/19/10,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Gerald,Holland,,,White,Male,South,United States,Mississippi,No,5/20/10,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Darick,Walker,,,Black,Male,South,United States,Virginia,No,5/20/10,0,2,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,John,Alba,,,Latinx,Male,South,United States,Texas,No,5/25/10,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,Thomas,Whisenhant,,,White,Male,South,United States,Alabama,No,5/27/10,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,George,Jones,,,Black,Male,South,United States,Texas,No,6/2/10,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,2,no,Melbert,Ford,,,White,Male,South,United States,Georgia,No,6/9/10,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,John,Parker,Forrest,,White,Male,South,United States,Alabama,No,6/10/10,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,David,Powell,,,White,Male,South,United States,Texas,No,6/15/10,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Ronnie,Gardner,,,White,Male,West,United States,Utah,No,6/18/10,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Michael,Perry,,,White,Male,South,United States,Texas,No,7/1/10,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,5,no,William,Garner,,,Black,Male,Midwest,United States,Ohio,No,7/13/10,0,1,0,0,0,0,0,4,0,0,0,0,Black
+no,2,no,Derrick,Jackson,,,Black,Male,South,United States,Texas,No,7/20/10,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Joseph,Burns,,,White,Male,South,United States,Mississippi,No,7/21/10,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Roderick,Davie,,,Black,Male,Midwest,United States,Ohio,No,8/10/10,0,1,0,0,0,0,1,0,0,0,0,0,Multiple (including White)
+no,1,no,Michael,Land,,,White,Male,South,United States,Alabama,No,8/12/10,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Peter,Cantu,,,Latinx,Male,South,United States,Texas,No,8/17/10,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Holly,Wood,,,Black,Male,South,United States,Alabama,No,9/9/10,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Cal,Brown,,,White,Male,West,United States,Washington,No,9/10/10,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Teresa,Lewis,,,White,Female,South,United States,Virginia,No,9/23/10,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,3,no,Brandon,Rhode,,,White,Male,South,United States,Georgia,No,9/27/10,2,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Michael,Benge,,,White,Male,Midwest,United States,Ohio,No,10/6/10,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Donald,Wackerly,,,White,Male,South,United States,Oklahoma,No,10/14/10,0,0,0,1,0,0,0,0,0,0,0,0,Asian
+no,2,no,Larry,Wooten,,,Black,Male,South,United States,Texas,No,10/21/10,0,1,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Jeffrey,Landrigan,,,American Indian or Alaska Native,Male,West,United States,Arizona,No,10/26/10,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Phillip,Hallford,,,White,Male,South,United States,Alabama,No,11/4/10,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,John,Duty,David,,White,Male,South,United States,Oklahoma,No,12/16/10,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Billy,Alverson,Don,,Black,Male,South,United States,Oklahoma,No,1/6/11,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Jeffrey,Matthews,,,White,Male,South,United States,Oklahoma,No,1/11/11,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Leroy,White,,,Black,Male,South,United States,Alabama,No,1/13/11,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Emmanuel,Hammond,,,Black,Male,South,United States,Georgia,No,1/25/11,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Martin,Link,,,White,Male,Midwest,United States,Missouri,No,2/9/11,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Michael,Hall,,,White,Male,South,United States,Texas,No,2/15/11,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,Frank,Spisak,,,White,Male,Midwest,United States,Ohio,No,2/17/11,1,2,0,0,0,0,0,0,0,0,0,0,Multiple (including White)
+no,1,no,Timothy,Adams,,,Black,Male,South,United States,Texas,No,2/22/11,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Johnnie,Baston,,,Black,Male,Midwest,United States,Ohio,No,3/10/11,0,0,0,1,0,0,0,0,0,0,0,0,Asian
+no,2,no,Eric,King,,,Black,Male,West,United States,Arizona,No,3/29/11,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,William,Boyd,Glenn,,White,Male,South,United States,Alabama,No,3/31/11,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Clarence,Carter,,,Black,Male,Midwest,United States,Ohio,No,4/12/11,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Cary,Kerr,,,White,Male,South,United States,Texas,No,5/3/11,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,Jeffrey,Motts,,,White,Male,South,United States,South Carolina,No,5/6/11,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,4,no,Benny,Stevens,,,White,Male,South,United States,Mississippi,No,5/10/11,3,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Daniel,Bedford,,,White,Male,Midwest,United States,Ohio,No,5/17/11,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Rodney,Gray,,,Black,Male,South,United States,Mississippi,No,5/17/11,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,4,no,Jason,Williams,,,White,Male,South,United States,Alabama,No,5/19/11,3,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Donald,Beaty,,,White,Male,West,United States,Arizona,No,5/25/11,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Gayland,Bradford,,,Black,Male,South,United States,Texas,No,6/1/11,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Lee,Taylor,,,White,Male,South,United States,Texas,No,6/16/11,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Eddie,Powell,,III,Black,Male,South,United States,Alabama,No,6/16/11,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Milton,Mathis,,,Black,Male,South,United States,Texas,No,6/21/11,1,1,0,0,0,0,0,0,0,0,0,0,Multiple (including White)
+no,1,no,Roy,Blankenship,,,White,Male,South,United States,Georgia,No,6/23/11,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Richard,Bible,,,White,Male,West,United States,Arizona,No,6/30/11,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Humberto,Leal,,,Latinx,Male,South,United States,Texas,Yes,7/7/11,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,Thomas,West,,,White,Male,West,United States,Arizona,No,7/19/11,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Mark,Stroman,,,White,Male,South,United States,Texas,No,7/20/11,0,0,0,1,0,0,0,0,0,0,0,0,Asian
+no,3,no,Andrew,DeYoung,Grant,,White,Male,South,United States,Georgia,No,7/21/11,1,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Robert,Jackson,,III,White,Male,South,United States,Delaware,No,7/29/11,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Martin,Robles,,,Latinx,Male,South,United States,Texas,No,8/10/11,0,0,2,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Jerry,Jackson,,,Black,Male,South,United States,Virginia,No,8/18/11,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Steven,Woods,,,White,Male,South,United States,Texas,No,9/13/11,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Lawrence,Brewer,,,White,Male,South,United States,Texas,No,9/21/11,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Troy,Davis,,,Black,Male,South,United States,Georgia,No,9/21/11,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Derrick,Mason,,,Black,Male,South,United States,Alabama,No,9/22/11,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Manuel,Valle,,,Latinx,Male,South,United States,Florida,Yes,9/28/11,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+yes,1,no,Christopher,Johnson,,,White,Male,South,United States,Alabama,No,10/20/11,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Frank,Garcia,,,Latinx,Male,South,United States,Texas,No,10/27/11,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,3,no,Reginald,Brooks,,,Black,Male,Midwest,United States,Ohio,No,11/15/11,0,3,0,0,0,0,0,0,0,0,0,0,Black
+no,3,no,Oba,Chandler,,,White,Male,South,United States,Florida,No,11/15/11,0,0,0,0,0,0,3,0,0,0,0,0,White
+no,1,no,Guadalupe,Esparza,,,Latinx,Male,South,United States,Texas,No,11/16/11,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,2,no,Paul,Rhoades,,,White,Male,West,United States,Idaho,No,11/18/11,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Gary,Welch,,,White,Male,South,United States,Oklahoma,No,1/5/12,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Rodrigo,Hernandez,,,Latinx,Male,South,United States,Texas,No,1/26/12,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Edwin,Turner,,,White,Male,South,United States,Mississippi,No,2/8/12,0,2,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Robert,Waterhouse,,,White,Male,South,United States,Florida,No,2/15/12,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Robert,Moorman,,,White,Male,West,United States,Arizona,No,2/29/12,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,George,Rivas,,,Latinx,Male,South,United States,Texas,No,2/29/12,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Keith,Thurmond,,,White,Male,South,United States,Texas,No,3/7/12,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Robert,Towery,,,White,Male,West,United States,Arizona,No,3/8/12,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Timothy,Stemple,,,White,Male,South,United States,Oklahoma,No,3/15/12,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Larry,Puckett,,,White,Male,South,United States,Mississippi,No,3/20/12,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,William,Mitchell,,,Black,Male,South,United States,Mississippi,No,3/22/12,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Jesse,Hernandez,,,Latinx,Male,South,United States,Texas,No,3/28/12,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,David,Gore,,,White,Male,South,United States,Florida,No,4/12/12,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Mark,Wiles,,,White,Male,Midwest,United States,Ohio,No,4/18/12,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,no,Shannon,Johnson,,,Black,Male,South,United States,Delaware,No,4/20/12,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Thomas,Kemp,,,White,Male,West,United States,Arizona,No,4/25/12,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Beunka,Adams,,,Black,Male,South,United States,Texas,No,4/26/12,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Michael,Selsor,,,White,Male,South,United States,Oklahoma,No,5/1/12,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,4,no,Henry,Jackson,,,Black,Male,South,United States,Mississippi,No,6/5/12,0,2,0,0,0,0,0,2,0,0,0,0,Black
+no,1,no,Richard,Leavitt,,,White,Male,West,United States,Idaho,No,6/12/12,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,4,no,Jan,Brawner,,,White,Male,South,United States,Mississippi,No,6/12/12,1,0,0,0,0,0,3,0,0,0,0,0,White
+no,1,no,Gary,Simmons,,,White,Male,South,United States,Mississippi,No,6/20/12,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Samuel,Lopez,,,Latinx,Male,West,United States,Arizona,No,6/27/12,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,Yokamon,Hearn,,,Black,Male,South,United States,Texas,No,7/18/12,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Marvin,Wilson,,,Black,Male,South,United States,Texas,No,8/7/12,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,2,no,Daniel,Cook,,,White,Male,West,United States,Arizona,No,8/8/12,1,0,1,0,0,0,0,0,0,0,0,0,Multiple (including White)
+no,3,no,Michael,Hooper,,,White,Male,South,United States,Oklahoma,No,8/14/12,1,0,0,0,0,0,2,0,0,0,0,0,White
+no,2,no,Donald,Palmer,,,White,Male,Midwest,United States,Ohio,No,9/20/12,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Robert,Harris,,,Black,Male,South,United States,Texas,No,9/20/12,0,0,1,0,0,0,1,0,0,0,0,0,Multiple (including White)
+no,1,no,Cleve,Foster,,,White,Male,South,United States,Texas,No,9/25/12,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Jonathan,Green,,,Black,Male,South,United States,Texas,No,10/10/12,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,Eric,Robert,,,White,Male,Midwest,United States,South Dakota,No,10/15/12,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Bobby,Hines,,,White,Male,South,United States,Texas,No,10/24/12,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Donald,Moeller,,,White,Male,Midwest,United States,South Dakota,No,10/30/12,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Donnie,Roberts,,,White,Male,South,United States,Texas,No,10/31/12,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Garry,Allen,,,Black,Male,South,United States,Oklahoma,No,11/6/12,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Mario,Swain,,,Black,Male,South,United States,Texas,No,11/8/12,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Brett,Hartman,,,White,Male,Midwest,United States,Ohio,No,11/13/12,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Ramon,Hernandez,,,Latinx,Male,South,United States,Texas,No,11/14/12,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,2,no,Preston,Hughes,,,Black,Male,South,United States,Texas,No,11/15/12,0,1,0,0,0,0,0,1,0,0,0,0,Black
+no,2,no,George,Ochoa,,,Latinx,Male,South,United States,Oklahoma,No,12/4/12,0,0,1,0,0,0,0,0,1,0,0,0,Latinx
+no,2,no,Richard,Stokley,D,,White,Male,West,United States,Arizona,No,12/5/12,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,9,no,Manuel,Pardo,,,Latinx,Male,South,United States,Florida,No,12/11/12,1,0,5,0,0,0,0,0,3,0,0,0,Multiple (including White)
+yes,2,no,Robert,Gleason,C,,White,Male,South,United States,Virginia,No,1/16/13,1,1,0,0,0,0,0,0,0,0,0,0,Multiple (including White)
+no,1,no,Carl,Blue,,,Black,Male,South,United States,Texas,No,2/21/13,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,2,no,Andrew,Cook,Allen,,White,Male,South,United States,Georgia,No,2/21/13,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Frederick,Treesh,,,White,Male,Midwest,United States,Ohio,No,3/6/13,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Steven,Thacker,Ray,,White,Male,South,United States,Oklahoma,No,3/12/13,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Rickey,Lewis,Lynn,,Black,Male,South,United States,Texas,No,4/9/13,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Larry,Mann,,,White,Male,South,United States,Florida,No,4/10/13,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Ronnie,Threadgill,,,Black,Male,South,United States,Texas,No,4/16/13,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Richard,Cobb,,,White,Male,South,United States,Texas,No,4/25/13,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Steven,Smith,T.,,White,Male,Midwest,United States,Ohio,No,5/1/13,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Carroll,Parr,,,Black,Male,South,United States,Texas,No,5/7/13,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Jeffrey,Williams,D.,,Black,Male,South,United States,Texas,No,5/15/13,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Elmer,Carroll,,,White,Male,South,United States,Florida,No,5/29/13,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Elroy,Chester,,,Black,Male,South,United States,Texas,No,6/12/13,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,William,Van Poyck,,,White,Male,South,United States,Florida,No,6/12/13,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,James,DeRosa,L,,White,Male,South,United States,Oklahoma,No,6/18/13,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Brian,Davis,,,Black,Male,South,United States,Oklahoma,No,6/25/13,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Kimberly,McCarthy,,,Black,Female,South,United States,Texas,No,6/26/13,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,John,Quintanilla,,Jr.,Latinx,Male,South,United States,Texas,No,7/16/13,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Vaughn,Ross,,,Black,Male,South,United States,Texas,No,7/18/13,1,0,0,0,0,0,0,1,0,0,0,0,Multiple (including White)
+yes,1,no,Andrew,Lackey,Reid,,White,Male,South,United States,Alabama,No,7/25/13,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Douglas,Feldman,,,White,Male,South,United States,Texas,No,7/31/13,1,0,1,0,0,0,0,0,0,0,0,0,Multiple (including White)
+no,8,no,John,Ferguson,,,Black,Male,South,United States,Florida,No,8/5/13,1,6,0,0,0,0,1,0,0,0,0,0,Multiple (including White)
+no,1,no,Anthony,Banks,,,Black,Male,South,United States,Oklahoma,No,9/10/13,0,0,0,0,0,0,0,0,0,1,0,0,Asian
+no,4,no,Robert,Garza,,,Latinx,Male,South,United States,Texas,No,9/19/13,0,0,0,0,0,0,0,0,4,0,0,0,Latinx
+no,2,no,Harry,Mitts,,Jr.,White,Male,Midwest,United States,Ohio,No,9/25/13,1,1,0,0,0,0,0,0,0,0,0,0,Multiple (including White)
+no,1,no,Arturo,Diaz,,,Latinx,Male,South,United States,Texas,No,9/26/13,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Marshall,Gore,,,White,Male,South,United States,Florida,No,10/1/13,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Edward,Schad,,,White,Male,West,United States,Arizona,No,10/9/13,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Michael,Yowell,,,White,Male,South,United States,Texas,No,10/9/13,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,William,Happ,,,White,Male,South,United States,Florida,No,10/15/13,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,6,no,Robert,Jones,,,White,Male,West,United States,Arizona,No,10/23/13,3,0,0,0,0,0,3,0,0,0,0,0,White
+no,1,no,Darius,Kimbrough,,,Black,Male,South,United States,Florida,No,11/12/13,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Jamie,McCoskey,,,White,Male,South,United States,Texas,No,11/12/13,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Joseph,Franklin,Paul,,White,Male,Midwest,United States,Missouri,No,11/20/13,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,no,Jerry,Martin,,,White,Male,South,United States,Texas,No,12/3/13,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Ronald,Lott,Clinton,,Black,Male,South,United States,Oklahoma,No,12/10/13,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Allen,Nicklasson,L,,White,Male,Midwest,United States,Missouri,No,12/11/13,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Johnny,Black,,,White,Male,South,United States,Oklahoma,No,12/17/13,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Askari,Muhammad,Abdullah,,Black,Male,South,United States,Florida,No,1/7/14,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Michael,Wilson,,,Black,Male,South,United States,Oklahoma,No,1/9/14,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Dennis,McGuire,,,White,Male,Midwest,United States,Ohio,No,1/16/14,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Edgar,Tamayo,,,Latinx,Male,South,United States,Texas,Yes,1/22/14,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Kenneth,Hogan,,,White,Male,South,United States,Oklahoma,No,1/23/14,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Herbert,Smulls,L,,Black,Male,Midwest,United States,Missouri,No,1/29/14,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Suzanne,Basso,,,White,Female,South,United States,Texas,No,2/5/14,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Juan,Chavez,,,Latinx,Male,South,United States,Florida,Yes,2/12/14,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Michael,Taylor,Anthony,,Black,Male,Midwest,United States,Missouri,No,2/26/14,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Paul,Howell,,,Black,Male,South,United States,Florida,No,2/26/14,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Ray,Jasper,,,Black,Male,South,United States,Texas,No,3/19/14,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,2,no,Robert,Henry,,,Black,Male,South,United States,Florida,No,3/20/14,0,0,0,0,0,0,1,1,0,0,0,0,Multiple (including White)
+no,1,no,Jeffrey,Ferguson,,,White,Male,Midwest,United States,Missouri,No,3/26/14,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Anthony,Doyle,,,Black,Male,South,United States,Texas,No,3/27/14,0,0,0,0,0,0,0,0,0,1,0,0,Asian
+no,1,no,Tommy,Sells,,,White,Male,South,United States,Texas,No,4/3/14,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Ramiro,Hernandez,,,Latinx,Male,South,United States,Texas,Yes,4/9/14,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,3,no,Jose,Villegas,,,Latinx,Male,South,United States,Texas,No,4/16/14,0,0,1,0,0,0,0,0,2,0,0,0,Latinx
+no,1,no,William,Rousan,,,White,Male,Midwest,United States,Missouri,No,4/23/14,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Robert,Hendrix,,,White,Male,South,United States,Florida,No,4/23/14,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Clayton,Lockett,,,Black,Male,South,United States,Oklahoma,No,4/29/14,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Marcus,Wellons,A.,,Black,Male,South,United States,Georgia,No,6/17/14,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,2,no,John,Winfield,E,,Black,Male,Midwest,United States,Missouri,No,6/18/14,0,0,0,0,0,0,0,2,0,0,0,0,Black
+no,1,no,John,Henry,,,Black,Male,South,United States,Florida,No,6/18/14,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Eddie,Davis,,,White,Male,South,United States,Florida,No,7/10/14,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,John,Middleton,,,White,Male,Midwest,United States,Missouri,No,7/16/14,2,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Joseph,Wood,R,,White,Male,West,United States,Arizona,No,7/23/14,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Michael,Worthington,,,White,Male,Midwest,United States,Missouri,No,8/6/14,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Earl,Ringo,,Jr.,Black,Male,Midwest,United States,Missouri,No,9/10/14,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Willie,Trottie,,,Black,Male,South,United States,Texas,No,9/10/14,0,1,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Lisa,Coleman,,,Black,Female,South,United States,Texas,No,9/17/14,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,3,no,Miguel,Paredes,,,Latinx,Male,South,United States,Texas,No,10/28/14,1,0,1,0,0,0,0,0,1,0,0,0,Multiple (including White)
+no,1,no,Chadwick,Banks,,,Black,Male,South,United States,Florida,No,11/13/14,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Leon,Taylor,,,Black,Male,Midwest,United States,Missouri,No,11/19/14,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Robert,Holsey,Wayne,,Black,Male,South,United States,Georgia,No,12/9/14,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Paul,Goodwin,,,White,Male,Midwest,United States,Missouri,No,12/10/14,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Andrew,Brannan,,,White,Male,South,United States,Georgia,No,1/13/15,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Johnny,Kormondy,,,White,Male,South,United States,Florida,No,1/15/15,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Charles,Warner,,,Black,Male,South,United States,Oklahoma,No,1/15/15,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,3,no,Arnold,Prieto,,,Latinx,Male,South,United States,Texas,No,1/21/15,0,0,1,0,0,0,1,0,1,0,0,0,Multiple (including White)
+no,1,no,Warren,Hill,,,Black,Male,South,United States,Georgia,No,1/27/15,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Robert,Ladd,,,Black,Male,South,United States,Texas,No,1/29/15,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Donald,Newbury,,,White,Male,South,United States,Texas,No,2/4/15,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Walter,Storey,,,White,Male,Midwest,United States,Missouri,No,2/11/15,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Manuel,Vasquez,,,Latinx,Male,South,United States,Texas,No,3/11/15,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,Cecil,Clayton,,,White,Male,Midwest,United States,Missouri,No,3/17/15,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Kent,Sprouse,,,White,Male,South,United States,Texas,No,4/9/15,1,0,1,0,0,0,0,0,0,0,0,0,Multiple (including White)
+no,1,no,Andre,Cole,,,Black,Male,Midwest,United States,Missouri,No,4/14/15,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Manuel,Garza,,Jr.,Latinx,Male,South,United States,Texas,No,4/15/15,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,3,no,Derrick,Charles,,,Black,Male,South,United States,Texas,No,5/12/15,0,1,0,0,0,0,0,2,0,0,0,0,Black
+no,4,no,Lester,Bower,,,White,Male,South,United States,Texas,No,6/3/15,4,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Richard,Strong,,,Black,Male,Midwest,United States,Missouri,No,6/9/15,0,0,0,0,0,0,0,2,0,0,0,0,Black
+no,1,no,Gregory,Russeau,,,Black,Male,South,United States,Texas,No,6/18/15,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,David,Zink,,,White,Male,Midwest,United States,Missouri,No,7/14/15,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,Daniel,Lopez,,,Latinx,Male,South,United States,Texas,No,8/12/15,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Roderick,Nunley,,,Black,Male,Midwest,United States,Missouri,No,9/1/15,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Kelly,Gissendaner,Renee,,White,Female,South,United States,Georgia,No,9/30/15,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Alfredo,Prieto,R,,Latinx,Male,South,United States,Virginia,Yes,10/1/15,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Juan,Garcia,,,Latinx,Male,South,United States,Texas,No,10/6/15,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Licho,Escamilla,,,Latinx,Male,South,United States,Texas,No,10/14/15,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,4,no,Jerry,Correll,,,White,Male,South,United States,Florida,No,10/29/15,0,0,0,0,0,0,4,0,0,0,0,0,White
+no,3,no,Raphael,Holiday,,,Black,Male,South,United States,Texas,No,11/18/15,0,0,0,0,0,0,0,3,0,0,0,0,Black
+no,1,no,Marcus,Johnson,,,White,Male,South,United States,Georgia,No,11/19/15,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Brian,Terrell,Keith,,Black,Male,South,United States,Georgia,No,12/9/15,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Oscar,Bolin,Ray,Jr.,White,Male,South,United States,Florida,No,1/7/16,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Richard,Masterson,,,White,Male,South,United States,Texas,No,1/20/16,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Christopher,Brooks,Eugene,,White,Male,South,United States,Alabama,No,1/21/16,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,James,Freeman,,,White,Male,South,United States,Texas,No,1/27/16,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Brandon,Jones,Astor,,Black,Male,South,United States,Georgia,No,2/3/16,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Gustavo,Garcia,,,Latinx,Male,South,United States,Texas,No,2/16/16,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Travis,Hittson,Clinton,,White,Male,South,United States,Georgia,No,2/17/16,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Coy,Wesbrook,,,White,Male,South,United States,Texas,No,3/9/16,0,0,1,0,0,0,1,0,0,0,0,0,Multiple (including White)
+no,1,no,Adam,Ward,,,White,Male,South,United States,Texas,No,3/22/16,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Joshua,Bishop,Daniel,,White,Male,South,United States,Georgia,No,3/31/16,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Pablo,Vasquez,,,Latinx,Male,South,United States,Texas,No,4/6/16,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Kenneth,Fults,E,,Black,Male,South,United States,Georgia,No,4/12/16,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,Daniel,Lucas,,,White,Male,South,United States,Georgia,No,4/27/16,2,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,Earl,Forrest,,,White,Male,Midwest,United States,Missouri,No,5/11/16,1,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,John,Conner,W,,White,Male,South,United States,Georgia,No,7/15/16,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,2,no,Barney,Fuller,Ronald,Jr.,White,Male,South,United States,Texas,No,10/5/16,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Gregory,Lawler,Paul,,White,Male,South,United States,Georgia,No,10/19/16,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,no,Steven,Spears,Frederick,,White,Male,South,United States,Georgia,No,11/16/16,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,William,Sallie,,,White,Male,South,United States,Georgia,No,12/6/16,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Ronald,Smith,Bert,Jr.,White,Male,South,United States,Alabama,No,12/8/16,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Christopher,Wilkins,,,White,Male,South,United States,Texas,No,1/11/17,0,1,1,0,0,0,0,0,0,0,0,0,Multiple
+no,2,no,Ricky,Gray,Jovan,,Black,Male,South,United States,Virginia,No,1/18/17,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,2,no,Terry,Edwards,Darnell,,Black,Male,South,United States,Texas,No,1/26/17,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,Mark,Christeson,,,White,Male,Midwest,United States,Missouri,No,1/31/17,1,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Rolando,Ruiz,,,Latinx,Male,South,United States,Texas,No,3/7/17,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,2,no,James,Bigby,,,White,Male,South,United States,Texas,No,3/14/17,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Ledell,Lee,,,Black,Male,South,United States,Arkansas,No,4/20/17,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Jack,Jones,H,Jr.,White,Male,South,United States,Arkansas,No,4/24/17,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Marcel,Williams,W,,Black,Male,South,United States,Arkansas,No,4/24/17,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Kenneth,Williams,,,Black,Male,South,United States,Arkansas,No,4/27/17,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,J.W.,Ledford,,Jr.,White,Male,South,United States,Georgia,No,5/17/17,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Thomas,Arthur,Douglas,,White,Male,South,United States,Alabama,No,5/26/17,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,3,no,Robert,Melson,Bryant,,Black,Male,South,United States,Alabama,No,6/8/17,1,1,0,0,0,0,0,1,0,0,0,0,Multiple (including White)
+no,2,no,William,Morva,,,White,Male,South,United States,Virginia,No,7/6/17,1,1,0,0,0,0,0,0,0,0,0,0,Multiple (including White)
+no,1,no,Ronald,Phillips,R.,,White,Male,Midwest,United States,Ohio,No,7/26/17,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,TaiChin,Preyor,,,Black,Male,South,United States,Texas,No,7/27/17,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Mark,Asay,James,,White,Male,South,United States,Florida,No,8/24/17,1,1,0,0,0,0,0,0,0,0,0,0,Multiple (including White)
+no,2,no,Gary,Otte,,,White,Male,Midwest,United States,Ohio,No,9/13/17,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Cary,Lambrix,Michael,,White,Male,South,United States,Florida,No,10/5/17,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Robert,Pruett,,,White,Male,South,United States,Texas,No,10/12/17,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Torrey,McNabb,Twane,,Black,Male,South,United States,Alabama,No,10/19/17,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,2,no,Patrick,Hannon,C.,,White,Male,South,United States,Florida,No,11/8/17,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Ruben,Cardenas,Ramirez,,Latinx,Male,South,United States,Texas,Yes,11/8/17,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,Anthony,Shore,,,White,Male,South,United States,Texas,No,1/18/18,0,0,0,0,0,0,0,0,1,0,0,0,Latinx
+no,1,no,William,Rayford,,,Black,Male,South,United States,Texas,No,1/30/18,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,2,no,John,Battaglia,David,,White,Male,South,United States,Texas,No,2/1/18,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Eric,Branch,Scott,,White,Male,South,United States,Florida,No,2/22/18,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,Michael,Eggers,Wayne,,White,Male,South,United States,Alabama,No,3/15/18,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,Carlton,Gary,Michael,,Black,Male,South,United States,Georgia,No,3/15/18,0,0,0,0,0,0,3,0,0,0,0,0,White
+no,1,no,Rosendo,Rodriguez,,III,Latinx,Male,South,United States,Texas,No,3/27/18,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Walter,Moody,Leroy,Jr.,White,Male,South,United States,Alabama,No,4/19/18,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Erick,Davila,,,Black,Male,South,United States,Texas,No,4/25/18,0,0,0,0,0,0,0,2,0,0,0,0,Black
+no,1,no,Robert,Butts,,,Black,Male,South,United States,Georgia,No,5/4/18,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Juan,Castillo,,,Latinx,Male,South,United States,Texas,No,5/16/18,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Danny,Bible,,,White,Male,South,United States,Texas,No,6/27/18,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Christopher,Young,,,Black,Male,South,United States,Texas,No,7/17/18,0,0,0,1,0,0,0,0,0,0,0,0,Asian
+no,1,no,Robert,Van Hook,,,White,Male,Midwest,United States,Ohio,No,7/18/18,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Billy,Irick,Ray,,White,Male,South,United States,Tennessee,No,8/9/18,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,2,no,Carey,Moore,Dean,,White,Male,Midwest,United States,Nebraska,No,8/14/18,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Troy,Clark,,,White,Male,South,United States,Texas,No,9/26/18,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Daniel,Acker,,,White,Male,South,United States,Texas,No,9/27/18,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,Rodney,Berget,,,White,Male,Midwest,United States,South Dakota,No,10/29/18,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Edmund,Zagorski,,,White,Male,South,United States,Tennessee,No,11/1/18,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,3,no,Roberto,Ramos,Moreno,,Latinx,Male,South,United States,Texas,Yes,11/14/18,0,0,1,0,0,0,0,0,2,0,0,0,Latinx
+no,1,no,Joseph,Garcia,Christopher,,Latinx,Male,South,United States,Texas,No,12/4/18,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,David,Miller,Earl,,White,Male,South,United States,Tennessee,No,12/6/18,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Alvin,Braziel,Avon,Jr.,Black,Male,South,United States,Texas,No,12/11/18,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Jose,Jimenez,,,Latinx,Male,South,United States,Florida,No,12/13/18,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Robert,Jennings,,,Black,Male,South,United States,Texas,No,1/30/19,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,1,no,Domineque,Ray,,,Black,Male,South,United States,Alabama,No,2/7/19,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,3,no,Billie,Coble,,,White,Male,South,United States,Texas,No,2/28/19,2,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,John,King,William,,White,Male,South,United States,Texas,No,4/24/19,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,2,no,Scotty,Morrow,,,Black,Male,South,United States,Georgia,No,5/2/19,0,0,0,0,0,0,0,2,0,0,0,0,Black
+no,4,no,Michael,Samra,,,White,Male,South,United States,Alabama,No,5/16/19,1,0,0,0,0,0,3,0,0,0,0,0,White
+no,1,no,Donnie,Johnson,Edward,,White,Male,South,United States,Tennessee,No,5/16/19,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Robert,Long,Joe,,White,Male,South,United States,Florida,No,5/23/19,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Christopher,Price,Lee,,White,Male,South,United States,Alabama,No,5/30/19,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Marion,Wilson,,Jr.,Black,Male,South,United States,Georgia,No,6/20/19,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,2,no,Stephen,West,Michael,,White,Male,South,United States,Tennessee,No,8/15/19,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Larry,Swearingen,,,White,Male,South,United States,Texas,No,8/21/19,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Gary,Bowles,,,White,Male,South,United States,Florida,No,8/22/19,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Billy,Crutsinger,,,White,Male,South,United States,Texas,No,9/4/19,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Mark,Soliz,Anthony,,Latinx,Male,South,United States,Texas,No,9/10/19,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,Robert,Sparks,,,Black,Male,South,United States,Texas,No,9/25/19,0,2,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Russell,Bucklew,,,White,Male,Midwest,United States,Missouri,No,10/1/19,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Charles,Rhines,,,White,Male,Midwest,United States,South Dakota,No,11/4/19,1,0,0,0,0,0,0,0,0,0,0,0,White
+yes,1,no,Justen,Hall,,,White,Male,South,United States,Texas,No,11/6/19,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Ray,Cromartie,Jefferson,,Black,Male,South,United States,Georgia,No,11/13/19,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Lee,Hall,,,White,Male,South,United States,Tennessee,No,12/5/19,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Travis,Runnels,,,Black,Male,South,United States,Texas,No,12/11/19,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,John,Gardner,,,White,Male,South,United States,Texas,No,1/15/20,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Donnie,Lance,Cleveland,,White,Male,South,United States,Georgia,No,1/29/20,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Abel,Ochoa,,,Latinx,Male,South,United States,Texas,No,2/6/20,0,0,0,0,0,0,0,0,2,0,0,0,Latinx
+no,1,no,Nicholas,Sutton,Todd,,White,Male,South,United States,Tennessee,No,2/20/20,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,3,no,Nathaniel,Woods,,,Black,Male,South,United States,Alabama,No,3/5/20,3,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Walter,Barton,,,White,Male,Midwest,United States,Missouri,No,5/19/20,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Billy,Wardlow,,,White,Male,South,United States,Texas,No,7/8/20,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,3,no,Daniel,Lee,Lewis,,White,Male,South,United States,Federal,No,7/14/20,1,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Wesley,Purkey,Ira,,White,Male,Midwest,United States,Federal,No,7/16/20,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Dustin,Honken,Lee,,White,Male,Midwest,United States,Federal,No,7/17/20,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,2,no,Lezmond,Mitchell,,,American Indian or Alaska Native,Male,West,United States,Federal,No,8/26/20,0,0,0,0,0,0,0,0,0,0,2,0,American Indian or Alaska Native
+no,1,no,Keith,Nelson,Dwayne,,White,Male,Midwest,United States,Federal,No,8/28/20,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,William,LeCroy,Emmett,,White,Male,South,United States,Federal,No,9/22/20,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Christopher,Vialva,Andre,,Black,Male,South,United States,Federal,No,9/24/20,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Orlando,Hall,,,Black,Male,South,United States,Federal,No,11/19/20,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,2,no,Brandon,Bernard,,,Black,Male,South,United States,Federal,No,12/10/20,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Alfred,Bourgeois,,,Black,Male,South,United States,Federal,No,12/11/20,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Lisa,Montgomery,,,White,Female,Midwest,United States,Federal,No,1/13/21,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,7,no,Corey,Johnson,,,Black,Male,South,United States,Federal,No,1/14/21,0,6,0,0,0,0,0,1,0,0,0,0,Black
+no,3,no,Dustin,Higgs,,,Black,Male,South,United States,Federal,No,1/16/21,0,0,0,0,0,0,0,3,0,0,0,0,Black
+no,1,no,Quintin,Jones,,,Black,Male,South,United States,Texas,No,5/19/21,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,3,no,John,Hummel,,,White,Male,South,United States,Texas,No,6/30/21,1,0,0,0,0,0,2,0,0,0,0,0,White
+no,2,no,Rick,Rhoades,Allan,,White,Male,South,United States,Texas,No,9/28/21,2,0,0,0,0,0,0,0,0,0,0,0,White
+no,3,no,Ernest,Johnson,Lee,,Black,Male,Midwest,United States,Missouri,No,10/5/21,0,1,0,0,0,0,1,0,0,0,0,0,Multiple (including White)
+no,1,no,Willie,Smith,B,III,Black,Male,South,United States,Alabama,No,10/21/21,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,John,Grant,Marion,,Black,Male,South,United States,Oklahoma,No,10/28/21,0,0,0,0,0,0,1,0,0,0,0,0,White
+yes,1,no,David,Cox,Neal,Sr.,White,Male,South,United States,Mississippi,No,11/17/21,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Bigler,Stouffer,Jobe,,White,Male,South,United States,Oklahoma,No,12/9/21,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Donald,Grant,Anthony,,Black,Male,South,United States,Oklahoma,No,1/27/22,0,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Matthew,Reeves,,,Black,Male,South,United States,Alabama,No,1/27/22,0,1,0,0,0,0,0,0,0,0,0,0,Black
+no,4,no,Gilbert,Postelle,Ray,,White,Male,South,United States,Oklahoma,No,2/17/22,3,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Carl,Buntion,Wayne,,White,Male,South,United States,Texas,No,4/21/22,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,2,no,Carman,Deck,,,White,Male,Midwest,United States,Missouri,No,5/3/22,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Clarence,Dixon,,,American Indian or Alaska Native,Male,West,United States,Arizona,No,5/11/22,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Frank,Atwood,J,,White,Male,West,United States,Arizona,No,6/8/22,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Joe,James,Nathan,,Black,Male,South,United States,Alabama,No,7/28/22,0,0,0,0,0,0,0,1,0,0,0,0,Black
+no,1,no,Kosoul,Chanthakoummane,,,Asian,Male,South,United States,Texas,No,8/17/22,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,James,Coddington,,,White,Male,South,United States,Oklahoma,No,8/25/22,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,John ,Ramirez,Henry ,,Latinx, Male,South ,United States,Texas,no,10/5/22,0,0,1,0,0,0,0,0,0,0,0,0,Latinx
+no,1,no,Benjamin,Cole,,,White,Male,South,United States,Oklahoma ,no,10/20/22,0,0,0,0,0,0,0,0,0,0,1,0,American Indian or Alaska Native
+no,1,no,	Tracy,Beatty,,,White,Male,South,United States,Texas,no,11/9/22,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,Murray,Hooper ,,,Black,Male,West,United States,Arizona,no,11/16/22,1,0,0,0,0,0,1,0,0,0,0,0,White
+no,3,no,	Stephen,Barbee,Dale,,White,Male,South,United States,Texas,no,11/16/22,1,0,0,0,0,0,2,0,0,0,0,0,White
+no,1,no,Richard,Fairchild,,,White ,Male,South,United States,Oklahoma,no,11/17/22,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Kevin ,Johnson,,,Black,Male,Midwest,United States,Missouri,no,11/29/22,1,0,0,0,0,0,0,0,0,0,0,0,White
+no,1,no,Thomas,Edwin,Loden,Jr.,White,Male,South,United States,Mississippi,no,12/14/22,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,Amber ,McLaughlin,,,White,Female,Midwest,United States,Missouri,no,1/3/23,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,1,no,	Robert,Fratta,Alan,,White,Male,South,United States,Texas,no,1/10/23,0,0,0,0,0,0,1,0,0,0,0,0,White
+no,2,no,	Scott,Eizember,J.,,White,Male,South,United States,Oklahoma,no,1/12/23,1,0,0,0,0,0,1,0,0,0,0,0,White
